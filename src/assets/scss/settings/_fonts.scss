@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+/* open-sans-300 - latin */
+@font-face {
+  font-family: 'OpenSansLight';
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url('/fonts/open-sans/light/OpenSans-Light-webfont.eot'); /* IE9 Compat Modes */
+  src: local('Open Sans Light'), local('OpenSans-Light'),
+        url('/fonts/open-sans/light/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/fonts/open-sans/light/OpenSans-Light-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/fonts/open-sans/light/OpenSans-Light-webfont.woff') format('woff'), /* Modern Browsers */
+        url('/fonts/open-sans/light/OpenSans-Light-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+/* open-sans-regular - latin */
+@font-face {
+  font-family: 'OpenSansRegular';
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('/fonts/open-sans/regular/open-sans-v17-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Open Sans Regular'), local('OpenSans-Regular'),
+        url('/fonts/open-sans/regular/open-sans-v17-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/fonts/open-sans/regular/open-sans-v17-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/fonts/open-sans/regular/open-sans-v17-latin-regular.woff') format('woff'), /* Modern Browsers */
+        url('/fonts/open-sans/regular/open-sans-v17-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+/* open-sans-600 - latin */
+@font-face {
+  font-family: 'OpenSansSemibold';
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url('/fonts/open-sans/semibold/open-sans-v17-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'),
+        url('/fonts/open-sans/semibold/open-sans-v17-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/fonts/open-sans/semibold/open-sans-v17-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/fonts/open-sans/semibold/open-sans-v17-latin-600.woff') format('woff'), /* Modern Browsers */
+        url('/fonts/open-sans/semibold/open-sans-v17-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+/* open-sans-700 - latin */
+@font-face {
+  font-family: 'OpenSansBold';
+  src: url('/fonts/open-sans/bold/OpenSans-Bold-webfont.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/open-sans/bold/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/open-sans/bold/OpenSans-Bold-webfont.woff2') format('woff2'),
+      url('/fonts/open-sans/bold/OpenSans-Bold-webfont.woff') format('woff'),
+      url('/fonts/open-sans/bold/OpenSans-Bold-webfont.ttf') format('truetype');
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  font-weight: 700;
+}
+
+/* josefin-sans-300 - latin */
+@font-face {
+  font-family: 'JosefinSansLight';
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url('/fonts/josefin/light/josefin-sans-v16-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Josefin Sans Light'), local('JosefinSans-Light'),
+      url('/fonts/josefin/light/josefin-sans-v16-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+      url('/fonts/josefin/light/josefin-sans-v16-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+      url('/fonts/josefin/light/josefin-sans-v16-latin-300.woff') format('woff'), /* Modern Browsers */
+      url('/fonts/josefin/light/josefin-sans-v16-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+/* josefin-sans-regular - latin */
+@font-face {
+  font-family: 'JosefinSansRegular';
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('/fonts/josefin/regular/josefin-sans-v16-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Josefin Sans Regular'), local('JosefinSans-Regular'),
+      url('/fonts/josefin/regular/josefin-sans-v16-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+      url('/fonts/josefin/regular/josefin-sans-v16-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+      url('/fonts/josefin/regular/josefin-sans-v16-latin-regular.woff') format('woff'), /* Modern Browsers */
+      url('/fonts/josefin/regular/josefin-sans-v16-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+/* josefin-sans-600 - latin */
+@font-face {
+  font-family: 'JosefinSansSemibold';
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url('/fonts/josefin/semibold/josefin-sans-v16-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Josefin Sans Semibold'), local('JosefinSans-Semibold'),
+      url('/fonts/josefin/semibold/josefin-sans-v16-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+      url('/fonts/josefin/semibold/josefin-sans-v16-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+      url('/fonts/josefin/semibold/josefin-sans-v16-latin-600.woff') format('woff'), /* Modern Browsers */
+      url('/fonts/josefin/semibold/josefin-sans-v16-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+/* josefin-sans-700 - latin */
+@font-face {
+  font-family: 'JosefinSansBold';
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url('/fonts/josefin/bold/josefin-sans-v16-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Josefin Sans Bold'), local('JosefinSans-Bold'),
+      url('/fonts/josefin/bold/josefin-sans-v16-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+      url('/fonts/josefin/bold/josefin-sans-v16-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+      url('/fonts/josefin/bold/josefin-sans-v16-latin-700.woff') format('woff'), /* Modern Browsers */
+      url('/fonts/josefin/bold/josefin-sans-v16-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+/*
+Verona Lotte Font
+*/
+@font-face {
+  font-family: 'Verona Lotte';
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url('/fonts/verona-lotte/Verona-Lotte-Script.eot');
+  src: local('Verona Lotte Script'), local('Verona Lotte'),
+      url('/fonts/verona-lotte/Verona-Lotte-Script.eot#iefix') format('embedded-opentype'),
+      url('/fonts/verona-lotte/Verona-Lotte-Script.woff2') format('woff2'),
+      url('/fonts/verona-lotte/Verona-Lotte-Script.woff') format('woff'),
+      url('/fonts/verona-lotte/Verona-Lotte-Script.ttf') format('truetype'),
+}

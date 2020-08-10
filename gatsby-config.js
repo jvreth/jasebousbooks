@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
-    },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    title: `Jasebousbooks`,
+    author: `Jasebou`,
+    description: `Justo Ligula Mollis Porta Vestibulum`,
   },
   plugins: [
+    `gatsby-plugin-sass`,
+    `gatsby-plugin-polished`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-styled-components`,
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -48,8 +48,6 @@ module.exports = {
         ],
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -71,9 +69,17 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     {
-      resolve: `gatsby-plugin-typography`,
+      resolve: 'gatsby-plugin-react-svg',
       options: {
-        pathToConfigModule: `src/utils/typography`,
+        rule: {
+          include: /svg/
+        }
+      }
+    },
+    {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `5810500288`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

@@ -1,0 +1,65 @@
+// Font Variables
+// =========================================================
+
+$font-regular: 'OpenSansRegular', Arial, sans-serif;
+$font-semibold: 'OpenSansSemibold', Arial, sans-serif;
+$font-bold: 'OpenSansBold', Arial, sans-serif;
+$font-light: 'OpenSansLight', Arial, sans-serif;
+
+$font-josi-light: 'JosefinSansLight', serif;
+$font-josi-regular: 'JosefinSansRegular', serif;
+$font-josi-semibold: 'JosefinSansSemibold', serif;
+$font-josi-bold: 'JosefinSansBold', serif;
+
+html {
+    font-size: 100%;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-rendering: optimizelegibility;
+    background-color: $white;
+  }
+  
+  body {
+    min-height: 100vh;
+    font-family: $font-regular;
+    font-size: 1em;
+    line-height: 1.5;
+    color: $greyDarker;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    background-color: $white;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: border-box
+  }
+
+  figure {
+    margin: 0;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      list-style: none;
+    }
+  }
+
+  main {
+    margin-top: 5rem;
+  }
+
+  .content {
+    margin: 0 auto;
+    padding: 1rem;
+  }
