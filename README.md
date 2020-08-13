@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a236ca4-8a7a-42c9-b15f-28a2d887da9b/deploy-status)](https://app.netlify.com/sites/jasebousbooks/deploys)
+
 # Jasebousbooks Book blog
 
 ## Dependencies
