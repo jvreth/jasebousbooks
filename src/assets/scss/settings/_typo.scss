@@ -68,4 +68,9 @@ html {
     width: 60rem;
     margin: 2rem auto;
     padding: 1rem;
+
+    @media screen and (max-width: 64.5em) {
+      width: 100%;
+      margin: 0 auto;
+    }
   }

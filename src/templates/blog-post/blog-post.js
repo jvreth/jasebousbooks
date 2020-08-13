@@ -19,10 +19,8 @@ const backLink = (
   </Link>
 )
 
-const BlogPostTemplate = ({ data, location, pageContext }) => {
+const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
-  const mops = pageContext.posts
-  console.log(mops)
   const siteTitle = data.site.siteMetadata.title
   const rating = post.frontmatter.rating
   let ratingArr = []
@@ -50,34 +48,36 @@ const BlogPostTemplate = ({ data, location, pageContext }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <StyledArticle>
-        {backLink}
-        <header>
-          {post.frontmatter.thumbnail && 
-            <Img
-              className={`${CLASS}__image`}
-              fluid={post.frontmatter.thumbnail.childImageSharp.fluid} />
-          }
-          <h1>
-            {post.frontmatter.title}
-          </h1>
-          <ul className={`${CLASS}__meta`}>
-            <li>
-              <small>{post.frontmatter.category}</small>
-            </li>
-            <li>
-              <small>{post.frontmatter.date}</small>
-            </li>
-          </ul>
-        </header>
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <section className={`${CLASS}__rating`}>
-          <h3>Bewertung</h3>
-          {getRating()}
-        </section>
-        <hr />
-        {backLink}
-      </StyledArticle>
+      <div className="content">
+        <StyledArticle>
+          {backLink}
+          <header>
+            {post.frontmatter.thumbnail && 
+              <Img
+                className={`${CLASS}__image`}
+                fluid={post.frontmatter.thumbnail.childImageSharp.fluid} />
+            }
+            <h1>
+              {post.frontmatter.title}
+            </h1>
+            <ul className={`${CLASS}__meta`}>
+              <li>
+                <small>{post.frontmatter.category}</small>
+              </li>
+              <li>
+                <small>{post.frontmatter.date}</small>
+              </li>
+            </ul>
+          </header>
+          <section dangerouslySetInnerHTML={{ __html: post.html }} />
+          <section className={`${CLASS}__rating`}>
+            <h3>Bewertung</h3>
+            {getRating()}
+          </section>
+          <hr />
+          {backLink}
+        </StyledArticle>
+      </div>
     </Layout>
   )
 }

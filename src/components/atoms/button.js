@@ -13,6 +13,10 @@ const StyledButton = styled.link`
   text-align: center;
   font-size: .75rem;
   min-width: 8rem;
+  
+  @media screen and (max-width: 42.5em) {
+    margin-top: 1rem;
+  }
 
   &:hover {
     background-color: #d35c84;

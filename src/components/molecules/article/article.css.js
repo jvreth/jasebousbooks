@@ -4,6 +4,10 @@ const Container = styled.div`
   
   .width--half {
     width: 50%;
+
+    @media screen and (max-width: 42.5em) {
+      width: 100%;
+    }
   }
   
   .article {
@@ -12,6 +16,16 @@ const Container = styled.div`
     padding: 2rem;
     background-color: var(--greyLighter);
     border-radius: 8px;
+
+    @media screen and (max-width: 42.5em) {
+      margin: 1rem 0;
+      padding: 1rem;
+      flex-direction: column;
+
+      header {
+        text-align: center;
+      }
+    }
 
     &__title {
       margin: 0.5rem 0;
@@ -26,6 +40,10 @@ const Container = styled.div`
       padding-right: 2rem;
       border-radius: 8px;
       overflow: hidden;
+
+      @media screen and (max-width: 42.5em) {
+        padding-right: 0;
+      }
     }
 
     &__link {

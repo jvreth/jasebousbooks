@@ -1,9 +1,7 @@
 import styled from 'styled-components'
 
 const StyledArticle = styled.article`
-  width: 60rem;
-  margin: 1rem auto;
-  padding: 1rem;
+  padding: 0 1rem 0;
   
   .article-page {
 
@@ -70,6 +68,10 @@ const StyledArticle = styled.article`
     margin: 1rem 0 .25rem;
     font-weight: 200;
     color: var(--basic);
+
+    @media screen and (max-width: 42.5em) {
+      font-size: 2.5rem;
+    }
   }
   
   h2 {

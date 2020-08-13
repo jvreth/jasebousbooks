@@ -16,7 +16,6 @@ class ArticleFeed extends React.Component {
     const isLast = currentPage === numPages
     const prevPage = currentPage - 1 === 1 ? "/blog" : (currentPage - 1).toString()
     const nextPage = (currentPage + 1).toString()
-    console.log(currentPage)
     return (
       <Layout>
         <SEO title="Blog" />
@@ -37,7 +36,7 @@ class ArticleFeed extends React.Component {
                 </li>
               )}
               {Array.from({ length: numPages }, (_, i) => (
-                <li>
+                <li key={i + 1}>
                   <Link
                     className={`${i + 1 === currentPage && `${CLASS}__current-page`}`}
                     key={i + 1}

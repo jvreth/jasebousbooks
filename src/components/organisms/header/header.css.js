@@ -16,6 +16,10 @@ const Container = styled.header`
   transform: translateY(0);
   transition: transform 0.3s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
 
+  @media screen and (max-width: 42.5em) {
+    padding: 2rem .5rem;
+  }
+
   &.header.shadow {
     box-shadow: 0 9px 9px -9px rgba(0, 0, 0, 0.13);
   }
@@ -29,6 +33,10 @@ const Container = styled.header`
 
     &__item a {
       margin-right: 1.5rem;
+
+      @media screen and (max-width: 42.5em) {
+        margin-right: 1rem;
+      }
     }
   }
 

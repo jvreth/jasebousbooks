@@ -9,6 +9,10 @@ const Container = styled.div`
       margin: 1rem 0 2rem;
       color: var(--basic);
       text-align: center;
+
+      @media screen and (max-width: 42.5em) {
+        font-size: 2.5rem;
+      }
     }
 
     &__pagination {
@@ -45,12 +49,12 @@ const Container = styled.div`
         font-family: var(--font-semibold);
 
         &.article-feed__current-page {
-          color: var(--greyDarker);
+          color: var(--white);
           background-color: var(--basic);
           border-color: var(--basic);
 
           &:hover {
-            color: inherit;
+            color: var(--grey);
           }
         }
 

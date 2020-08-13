@@ -8,7 +8,6 @@ const CLASS = 'article';
 
 const Article = ({ items }) => (
   <Container>
-    {console.log(items)}
     {items.map((item, i) => (
       item.node ? (
         <article

@@ -6,7 +6,7 @@ const Instagram = ({ className }) => (
   <StaticQuery
     query={graphql`
       {
-        allInstaNode(limit: 5, sort: {fields: timestamp, order: DESC}) {
+        allInstaNode(limit: 4, sort: {fields: timestamp, order: DESC}) {
           edges {
             node {
               id
@@ -19,9 +19,9 @@ const Instagram = ({ className }) => (
               caption
               localFile {
                 childImageSharp {
-                  fixed(width: 200, height: 200) {
-                    ...GatsbyImageSharpFixed
-                  }
+                  fluid(maxWidth: 250) {
+                  ...GatsbyImageSharpFluid
+                }
                 }
               }
               thumbnails {
@@ -46,7 +46,8 @@ const Instagram = ({ className }) => (
               <div key={i}>
                 <figure className={className}>
                   <Img
-                    fixed={item.node.localFile.childImageSharp.fixed}
+                    className={`${className}-image`}
+                    fluid={item.node.localFile.childImageSharp.fluid}
                   />
                   <figcaption className={`${className}-caption`}>
                     <p>{item.node.caption}</p>
