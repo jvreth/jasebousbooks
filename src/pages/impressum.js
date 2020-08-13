@@ -1,12 +1,25 @@
 import React from "react"
-
+import styled from "styled-components"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+
+const Headline = styled.h1`
+  font-size: 3.5rem;
+  font-family: var(--font-light);
+  margin: 1rem 0;
+  text-align: center;
+  color: var(--basic);
+  font-weight: 200;
+
+  @media screen and (max-width: 42.5rem) {
+    font-size: 2.5rem;
+  }
+`
 
 const Impressum = () => (
   <Layout className="content">
     <SEO title="Impressum" />
-    <h1>Impressum</h1>
+    <Headline>Impressum</Headline>
     <h2>Angaben gemäß &sect; 5 TMG</h2>
     <p>
       Jasmin von Reth<br />
@@ -59,8 +72,7 @@ const Impressum = () => (
     </p>
 
     <p>
-      Quelle:
-      <a href="https://www.e-recht24.de/impressum-generator.html">https://www.e-recht24.de/impressum-generator.html</a>
+      Quelle: <a href="https://www.e-recht24.de/impressum-generator.html">e-recht24.de</a>
     </p>
   </Layout>
 )

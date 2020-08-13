@@ -5,6 +5,7 @@ description: "Im Jahr 2101 hat die Menschheit nach erbitterten Kämpfen gegen di
 thumbnail: cyber-trips.jpg
 category: Rezension
 rating: 4.0
+arc: true
 ---
 
 ## Über das Buch

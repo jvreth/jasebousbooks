@@ -5,6 +5,7 @@ description: "Sarai ist die Muse der Albträume. Seit sie denken kann, quält si
 thumbnail: muse-of-nightmares.jpg
 category: Rezension
 rating: 4.5
+arc: true
 ---
 
 ## Über das Buch

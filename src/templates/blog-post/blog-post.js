@@ -19,6 +19,20 @@ const backLink = (
   </Link>
 )
 
+const arcInfo = (
+  <div className={`${CLASS}__arc-info`}>
+    <hr className={`${CLASS}__separator`} />
+    <span className={`${CLASS}__arc-info-icon`}>
+      <FontAwesomeIcon icon={['fas', 'info-circle']} />
+    </span>
+    <span>
+      Dieses Buch wurde mir im Austausch gegen meine ehrliche Meinung als kostenloses Rezensionsexemplar zur Verfügung gestellt.
+      Meine Meinung bleibt natürlich trotzdem unverfälscht.
+    </span>
+    <hr className={`${CLASS}__separator`} />
+  </div>
+)
+
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
@@ -68,6 +82,7 @@ const BlogPostTemplate = ({ data, location }) => {
                 <small>{post.frontmatter.date}</small>
               </li>
             </ul>
+            {post.frontmatter.arc && arcInfo}
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           <section className={`${CLASS}__rating`}>
@@ -101,9 +116,10 @@ export const pageQuery = graphql`
         description
         category
         rating
+        arc
         thumbnail {
           childImageSharp {
-            fluid(maxWidth: 510) {
+            fluid(maxWidth: 900) {
               ...GatsbyImageSharpFluid
             }
           }

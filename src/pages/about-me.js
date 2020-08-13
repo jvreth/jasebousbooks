@@ -15,9 +15,7 @@ const Headline = styled.h1`
   }
 `
 
-const Container = styled.div`
-
-`
+const Container = styled.div``
 
 const Image = styled.img`
   max-width: 45rem;
@@ -31,29 +29,33 @@ const Image = styled.img`
 
 const Quote = styled.q`
   font-family: 'Verona Lotte';
-  font-size: 8rem;
-  text-align: center;
+  font-size: 6rem;
   display: block;
+  position: relative;
+  text-align: center;
+  
+  &:before {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  
+  &:after {
+    position: absolute;
+    right: 25px;
+    bottom: 0;
+  }
 
-  @media screen and (max-width: 42.5em) {
-    font-size: 6rem;
-    position: relative;
-    
-    &:before {
-      position: absolute;
-      left: 0;
-      top: 0;
-    }
-    
-    &:after {
-      position: absolute;
-      right: 25px;
-      bottom: 0;
+  @media screen and (min-width: 42.5em) {
+    font-size: 7rem;
+
+    &:before, &:after {
+      position: static;
     }
   }
   
-  @media screen and (max-width: 64.5em) {
-    font-size: 7rem;
+  @media screen and (min-width: 64.5em) {
+    font-size: 8rem;
   }
 `
 

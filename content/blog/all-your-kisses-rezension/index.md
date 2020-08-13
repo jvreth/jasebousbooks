@@ -5,6 +5,7 @@ description: "Im Jahr 2101 hat die Menschheit nach erbitterten Kämpfen gegen di
 thumbnail: all-ur-kisses.jpg
 category: Rezension
 rating: 4.5
+arc: true
 ---
 
 ## Über das Buch

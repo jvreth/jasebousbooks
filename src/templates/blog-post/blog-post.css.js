@@ -32,6 +32,25 @@ const StyledArticle = styled.article`
       }
     }
 
+    &__arc-info {
+      font-size: .875rem;
+      width: 100%;
+
+      &-icon {
+        margin-right: .5rem;
+      }
+
+      @media screen and (min-width: 43.5em) {
+        width: 80%;
+        margin: 0 auto;
+      }
+    }
+
+    &__separator {
+      max-width: 30rem;
+      margin: 2rem auto;
+    }
+
     &__back-link {
       margin: 1rem 0;
       font-size: .75rem;

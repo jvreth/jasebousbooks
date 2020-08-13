@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Jasebousbooks`,
     author: `Jasebou`,
-    description: `Justo Ligula Mollis Porta Vestibulum`,
+    description: `Willkommen bei Jasebousbooks. Mein Name ist Jasmin und ich blogge hier hauptsächlich über Bücher.`,
   },
   plugins: [
     `gatsby-plugin-sass`,
@@ -60,23 +60,23 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
-    `gatsby-plugin-feed`,
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     //trackingId: `ADD YOUR TRACKING ID HERE`,
+    //   },
+    // },
+    // `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Jasebousbooks Bücherblog`,
+        short_name: `Jasebousbooks`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#ffffff`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/favicon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
