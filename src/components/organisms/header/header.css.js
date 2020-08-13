@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import '../../../assets/scss/settings/_variables.scss';
 
 const Container = styled.header`
   position: fixed;
@@ -15,7 +14,7 @@ const Container = styled.header`
   background-color: rgba(255,255,255,0.95);
   width: 100%;
   transform: translateY(0);
-  transition: transform 0.3s ease;
+  transition: transform 0.3s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
 
   &.header.shadow {
     box-shadow: 0 9px 9px -9px rgba(0, 0, 0, 0.13);
@@ -36,7 +35,7 @@ const Container = styled.header`
   a {
     font-family: var(--font-josi-semibold);
     color: var(--basic);
-    transition: color 0.2s ease;
+    transition: color 0.2s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
 
     &:hover {
       color: var(--pink);

@@ -1,8 +1,55 @@
 import styled from 'styled-components'
 
 const Container = styled.div`
-  display: flex;
-  flex-direction: column;
+  
+  .width--half {
+    width: 50%;
+  }
+  
+  .article {
+    display: flex;
+    margin: 1rem;
+    padding: 2rem;
+    background-color: var(--greyLighter);
+    border-radius: 8px;
+
+    &__title {
+      margin: 0.5rem 0;
+      font-size: 1.25rem;
+    }
+
+    &__description {
+      font-size: .85rem;
+    }
+    
+    &__thumb {
+      padding-right: 2rem;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    &__link {
+      
+      &:hover {
+        color: var(--basic);
+        transition: color .2s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+      }
+
+      &--readmore {
+        text-transform: uppercase;
+        font-size: .75rem;
+      }
+
+      &-text {
+        margin-right: .5rem;
+      }
+    }
+
+    small {
+      text-transform: uppercase;
+      font-size: .75rem;
+    }
+  }
 `;
 
 export default Container;

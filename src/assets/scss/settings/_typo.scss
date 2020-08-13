@@ -1,10 +1,10 @@
 // Font Variables
 // =========================================================
 
-$font-regular: 'OpenSansRegular', Arial, sans-serif;
-$font-semibold: 'OpenSansSemibold', Arial, sans-serif;
-$font-bold: 'OpenSansBold', Arial, sans-serif;
-$font-light: 'OpenSansLight', Arial, sans-serif;
+$font-regular: 'MontserratRegular', Arial, sans-serif;
+$font-semibold: 'MontserratSemibold', Arial, sans-serif;
+$font-bold: 'MontserratBold', Arial, sans-serif;
+$font-light: 'MontserratLight', Arial, sans-serif;
 
 $font-josi-light: 'JosefinSansLight', serif;
 $font-josi-regular: 'JosefinSansRegular', serif;
@@ -59,7 +59,13 @@ html {
     margin-top: 5rem;
   }
 
+  hr {
+    margin: 2rem 0;
+    border: 1px solid var(--greyLight);
+  }
+
   .content {
-    margin: 0 auto;
+    width: 60rem;
+    margin: 2rem auto;
     padding: 1rem;
   }

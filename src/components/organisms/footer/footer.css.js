@@ -1,15 +1,14 @@
 import styled from 'styled-components';
-import '../../../assets/scss/settings/_variables.scss';
 
 const Container = styled.footer`
   padding: 4rem 1rem;
   text-align: center;
-  background-color: var(--greyLight);
+  background-color: var(--greyLighter);
 
   a {
     font-family: var(--font-josi-semibold);
     color: var(--basic);
-    transition: color 0.2s ease;
+    transition: color 0.2s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
     text-decoration: none;
     margin-right: 10px;
 

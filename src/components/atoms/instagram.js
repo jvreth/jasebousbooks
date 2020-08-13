@@ -46,10 +46,9 @@ const Instagram = ({ className }) => (
               <div key={i}>
                 <figure className={className}>
                   <Img
-                    style={{ borderRadius: '8px' }}
                     fixed={item.node.localFile.childImageSharp.fixed}
                   />
-                  <figcaption className={`${className}__caption`}>
+                  <figcaption className={`${className}-caption`}>
                     <p>{item.node.caption}</p>
                   </figcaption>
 
