@@ -1,7 +1,7 @@
 ---
 title: "Rezension: All your kisses"
 date: "2020-06-20"
-description: "Im Jahr 2101 hat die Menschheit nach erbitterten Kämpfen gegen die künstliche Intelligenz KAMI einen herben Rückschlag erlitten. Millionen wurden von ihrem technologischen Virus infiziert und verloren jeglichen eigenen Willen. Während auf der ganzen Welt nach einem Heilmittel geforscht wird, versucht die Kämpferin Andra hingegen Kontakt mit KAMI aufzunehmen — überzeugt davon, dass das Programm eine Persönlichkeit entwickelt hat ..."
+description: "Als Rune Kristiansen nach Blossom Grove, Georgia, zurückkehrt, hat er nur eins im Sinn: herausfinden, warum Poppy ihn von einem Tag auf den anderen aus ihrem Leben verbannt hat. Und das, obwohl sie ihm versprochen hatte, bis in alle Ewigkeit auf ihn zu warten. Zwei Jahre lang hat Poppys Schweigen Rune jeden Tag aus Neue das Herz gebrochen, doch als er ihr nach all der Zeit das erste Mal wieder gegenübertritt, weiß er augenblicklich, dass der schlimmste Schmerz ihnen erst noch bevorsteht."
 thumbnail: all-ur-kisses.jpg
 category: Rezension
 rating: 4.5
