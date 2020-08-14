@@ -28,6 +28,8 @@ arc: true
 > Verlag: LYX.digital
 > 
 > Erscheinungsdatum: 29.05.2020
+>
+> Rezensionsexemplar erhalten von: NetGalley und Lyx Verlag
 
 ## Klappentext
 Ein Kuss hält nur für einen Moment. 1000 Küsse halten für die Ewigkeit.

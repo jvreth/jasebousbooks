@@ -26,6 +26,8 @@ arc: true
 > Erscheinungsdatum: 29.05.2020
 > 
 > Teil 2 der "Neon Birds"-Reihe
+>
+> > Rezensionsexemplar erhalten von: NetGalley und Bastei Lübbe
 
 ## Klappentext
 Im Jahr 2101 hat die Menschheit nach erbitterten Kämpfen gegen die künstliche Intelligenz KAMI einen herben Rückschlag erlitten. Millionen wurden von ihrem technologischen Virus infiziert und verloren jeglichen eigenen Willen. Während auf der ganzen Welt nach einem Heilmittel geforscht wird, versucht die Kämpferin Andra hingegen Kontakt mit KAMI aufzunehmen — überzeugt davon, dass das Programm eine Persönlichkeit entwickelt hat ...
