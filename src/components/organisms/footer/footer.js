@@ -6,8 +6,9 @@ import Container from './footer.css'
 const Footer = () => (
   <Container>
     <nav>
-      <Link to="/impressum">Impressum</Link>
-      <Link to="/datenschutz">Datenschutz</Link>
+      <Link to="/impressum" title="Impressum">Impressum</Link>
+      <Link to="/datenschutz" title="Datenschutz">Datenschutz</Link>
+      <Link to="/contact/" title="Kontakt">Kontakt</Link>
     </nav>
     <Signature />
   </Container>

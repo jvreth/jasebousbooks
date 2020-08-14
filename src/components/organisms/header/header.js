@@ -41,9 +41,6 @@ function Header() {
           <li className="nav__item">
             <Link to="/blog/" title="Blog Übersicht">Blog</Link>
           </li>
-          {/* <li>
-            <Link to="/contact/" title="Kontakt">Kontakt</Link>
-          </li> */}
         </ul>
       </nav>
       <MetaNav />

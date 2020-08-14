@@ -38,6 +38,15 @@ const Input = styled.input`
   background: rgb(255, 255, 255);
   border-radius: 5px;
   border: 1px solid var(--greyLight);
+
+  &:focus, &:active {
+    outline: none;
+    border-color: rgb(255, 210, 209);
+
+    ~ label {
+      top: -11px;
+    }
+  }
 `
 
 const Label = styled.label`
@@ -60,6 +69,15 @@ const Button = styled.button`
   font-size: .75rem;
   min-width: 8rem;
   border: 1px solid var(--basic);
+  cursor: pointer;
+
+  &:hover {
+    background-color: #d35c84;
+    box-shadow: 0 3px 6px 0 rgba(57,57,57,0.1), 
+      0 3px 6px 0 rgba(57,57,57,0.25), 
+      0 0 1px 0 rgba(57,57,57,0.2) inset;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+  }
 `
 
 const Textarea = styled.textarea`
@@ -84,10 +102,18 @@ const Textarea = styled.textarea`
   }
 `
 
+const Text = styled.p`
+  text-align: center;
+  padding: 1rem 0;
+`
+
 const Contact = () => (
   <Layout className="content">
     <Headline>Kontakt</Headline>
     <section>
+      <Text>
+        Du möchtest eine Kooperation anfragen oder mir Feedback hinterlassen? Kein Problem!<br /> Füll doch einfach das Formular aus und ich melde mich bei dir.
+      </Text>
       <Form
         name="contact"
         method="POST"
