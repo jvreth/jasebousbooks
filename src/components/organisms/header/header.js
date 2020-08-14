@@ -33,14 +33,17 @@ function Header() {
       <nav>
         <ul className="nav">
           <li className="nav__item">
-            <Link to="/">Startseite</Link>
+            <Link to="/" title="Startseite">Startseite</Link>
           </li>
           <li className="nav__item">
-          <Link to="/about-me/">About Me</Link>
+          <Link to="/about-me/" title="Über mich">About Me</Link>
           </li>
           <li className="nav__item">
-            <Link to="/blog/">Blog</Link>
+            <Link to="/blog/" title="Blog Übersicht">Blog</Link>
           </li>
+          {/* <li>
+            <Link to="/contact/" title="Kontakt">Kontakt</Link>
+          </li> */}
         </ul>
       </nav>
       <MetaNav />

@@ -1,9 +1,0 @@
-.grid-container {
-  display: grid;
-  grid-template-areas:
-    "header header header"
-    "main main sidebar"
-    "footer footer footer";
-  grid-gap: 10px;
-  padding: 4px;
-}
