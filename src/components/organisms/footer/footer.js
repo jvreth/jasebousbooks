@@ -8,7 +8,7 @@ const Footer = () => (
     <nav>
       <Link to="/impressum" title="Impressum">Impressum</Link>
       <Link to="/datenschutz" title="Datenschutz">Datenschutz</Link>
-      <Link to="/contact/" title="Kontakt">Kontakt</Link>
+      {/* <Link to="/contact/" title="Kontakt">Kontakt</Link> */}
     </nav>
     <Signature />
   </Container>
