@@ -56,6 +56,11 @@ const StyledArticle = styled.article`
       }
     }
 
+    &__signature svg {
+      display: block;
+      margin: 0 auto;
+    }
+
     &__separator {
       max-width: 30rem;
       margin: 2rem auto;

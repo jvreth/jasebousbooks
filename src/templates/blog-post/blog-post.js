@@ -98,7 +98,7 @@ const BlogPostTemplate = ({ data, location }) => {
             </section>
           )}
           {post.frontmatter.signature && (
-            <section>
+            <section className={`${CLASS}__signature`}>
               <Icon width="300px" />
             </section>
           )}
