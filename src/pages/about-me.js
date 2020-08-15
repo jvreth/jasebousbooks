@@ -63,6 +63,11 @@ const Link = styled.link`
   display: inline-block;
   color: var(--basic);
   font-weight: 600;
+
+  &:hover {
+    color: var(--pink);
+    transition: color .2s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+  }
 `
 
 const AboutMe = () => (

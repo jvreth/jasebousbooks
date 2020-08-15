@@ -2,7 +2,7 @@ import React from "react"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { Link, graphql } from "gatsby"
 import Img from 'gatsby-image';
-
+import Icon from "../../assets/svg/xoxo-jasebou.svg"
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import StyledArticle from "./blog-post.css"
@@ -56,6 +56,13 @@ const BlogPostTemplate = ({ data, location }) => {
     ))
   }
 
+  const renderRating = () => (
+    <>
+    <h3>Bewertung</h3>
+    {getRating()}
+    </>
+  )
+
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
@@ -84,11 +91,17 @@ const BlogPostTemplate = ({ data, location }) => {
             </ul>
             {post.frontmatter.arc && arcInfo}
           </header>
-          <section dangerouslySetInnerHTML={{ __html: post.html }} />
-          <section className={`${CLASS}__rating`}>
-            <h3>Bewertung</h3>
-            {getRating()}
-          </section>
+          <section className={`${CLASS}__text`} dangerouslySetInnerHTML={{ __html: post.html }} />
+          {post.frontmatter.rating && (
+            <section className={`${CLASS}__rating`}>
+              {renderRating()}
+            </section>
+          )}
+          {post.frontmatter.signature && (
+            <section>
+              <Icon width="300px" />
+            </section>
+          )}
           <hr />
           {backLink}
         </StyledArticle>
@@ -111,12 +124,13 @@ export const pageQuery = graphql`
       excerpt(pruneLength: 160)
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "MMMM DD, YYYY", locale: "de")
         title
         description
         category
         rating
         arc
+        signature
         thumbnail {
           childImageSharp {
             fluid(maxWidth: 900) {

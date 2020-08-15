@@ -46,6 +46,16 @@ const StyledArticle = styled.article`
       }
     }
 
+    &__text a {
+      color: var(--basic);
+      font-weight: 600;
+
+      &:hover {
+        color: var(--pink);
+        transition: color .2s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+      }
+    }
+
     &__separator {
       max-width: 30rem;
       margin: 2rem auto;
@@ -94,15 +104,15 @@ const StyledArticle = styled.article`
   }
   
   h2 {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     font-family: var(--font-semibold);
-    margin: 1.5rem 0;
+    margin: 2rem 0;
   }
   
   h3 {
     font-family: var(--font-semibold);
     font-size: 1.25rem;
-    margin: 1rem 0;
+    margin: 1.5rem 0;
   }
 
   small {
