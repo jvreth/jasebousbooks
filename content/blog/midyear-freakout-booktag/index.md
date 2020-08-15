@@ -69,4 +69,4 @@ Ich hatte überhaupt keine Schwierigkeiten mit der Sprache, ich fand es super le
 
 *** 
 
-Wenn euch dieser Beitrag gefallen habt, dann schaut gerne in der nächsten Woche oder danach nochmal vorbei um den zweiten Teil nicht zu verpassen.
+Wenn euch dieser Beitrag gefallen hat, dann schaut gerne in der nächsten Woche oder danach nochmal vorbei um den zweiten Teil nicht zu verpassen.
