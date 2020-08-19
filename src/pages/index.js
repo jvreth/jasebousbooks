@@ -21,7 +21,7 @@ const BlogIndex = ({ data, location }) => {
       <div className="content">
         <Article items={data.allMarkdownRemark.edges} />
         <TextCenter>
-          <Button className="button--center" href="/blog/" text="Weiter" />
+          <Button className="button--center" href="/blog/" text="Weiter zur Blog Übersicht" />
         </TextCenter>
       </div>
     </Layout>

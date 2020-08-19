@@ -16,3 +16,15 @@
 ## 💫 Deploy
 
 [Netlify](https://netlify.com/)
+
+### Frontmatter
+
+| Variable    | Description | Value       |
+| ----------- | ----------- | ----------- |
+| title       | Title       | string |
+| date        | date when the pos is written |  date  |
+| description | short description of the post | string  |
+| thumbnail   | Image within the blog post |  image path  |
+| category    | Category of the post |  string  |
+| rating      | If it's a review the rating of the book | float |
+| arc         | If it's a review and a arc  | boolean |
