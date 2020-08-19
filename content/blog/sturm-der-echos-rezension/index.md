@@ -26,7 +26,7 @@ rating: 5.0
 > 
 > Erscheinungsdatum: 21.06.2020
 > 
-> Teil 4 der "Spiegelreinde"-Reihe
+> Teil 4 der "Spiegelreisende"-Reihe
 
 ## Klappentext
 Risse überziehen die Welt der Archen. Einer jagt den nächsten, die Abgründe werden immer größer. Babel, Pol, Anima – keine der Archen bleibt verschont. Die Bewohner müssen ungläubig mitansehen, wie ihre Welt nach und nach auseinanderbricht. Um die unwiederbringliche Zerstörung der Archen zu stoppen, muss so schnell wie möglich der Schuldige gefunden werden. Muss »der Andere« gefunden werden. Aber wie? Wo doch niemand auch nur weiß, wie er aussieht?

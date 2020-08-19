@@ -19,7 +19,7 @@ const Article = ({ items }) => (
               <Img fluid={item.node.frontmatter.thumbnail.childImageSharp.fluid} />
             </div>
           }
-          <div className={`width--half ${CLASS}__text`}>
+          <div className={`${item.node.frontmatter.thumbnail && 'width--half'} ${CLASS}__text`}>
             <header>
               <small className={`${CLASS}__category`}>{item.node.frontmatter.category}</small>
               <h3 className={`${CLASS}__title`}>
