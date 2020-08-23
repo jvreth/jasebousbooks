@@ -20,6 +20,7 @@ const Container = styled.div`
       align-items: center;
       justify-content: center;
       margin-top: 4rem;
+      flex-wrap: wrap;
 
       &-icon-prev {
         margin-right: .5rem;
@@ -31,6 +32,17 @@ const Container = styled.div`
 
       li {
         margin-right: .5rem;
+        
+        @media screen and (max-width: 37.5em) {
+          margin-bottom: 1rem;
+        }
+
+        &:first-child,
+        &:last-child {
+          @media screen and (max-width: 37.5em) {
+            width: 100%;
+          }
+        }
       }
 
       a {
