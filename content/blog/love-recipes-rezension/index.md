@@ -27,6 +27,8 @@ arc: true
 > 
 > Erscheinungsdatum: 06.04.2019
 > 
+> Rezensionsexemplar erhalten von: Lovelybooks und Piper Verlag
+> 
 > Teil 1 der "Kitchen Love"-Reihe
 
 ## Klappentext
