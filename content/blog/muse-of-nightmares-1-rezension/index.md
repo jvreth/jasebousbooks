@@ -29,7 +29,7 @@ arc: true
 > 
 > Teil 3 der "Strange the Dreamer"-Reihe
 >
-> > Rezensionsexemplar erhalten von: Lesejury und ONE Verlag
+> Rezensionsexemplar erhalten von: Lesejury und ONE Verlag
 
 ## Klappentext
 Sarai ist die Muse der Albträume. Seit sie denken kann, quält sie die Bewohner von Weep mit ihren schlimmsten Ängsten. Sie ist sich sicher, dass sie jede noch so furchtbare Grausamkeit gesehen hat. Doch damit liegt sie falsch. Unendlich falsch. Denn plötzlich findet sich Sarai selbst in einem Albtraum wieder, aus dem sie nicht aufwachen kann. Ihre Liebe, ihr Leben und das aller Bewohner von Weep stehen auf dem Spiel...

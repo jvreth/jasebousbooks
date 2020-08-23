@@ -26,6 +26,8 @@ arc: true
 > Verlag: Piper ebooks
 > 
 > Erscheinungsdatum: 04.05.2020
+>
+> Rezensionsexemplar erhalten von: NetGalley und Piper Verlag
 
 
 ## Klappentext

@@ -26,7 +26,9 @@ arc: true
 > Verlag: Knaur Verlag
 > 
 > Erscheinungsdatum: 20.08.2019
-> 
+>
+> Rezensionsexemplar erhalten von: Lovelybooks und Knaur Verlag 
+>
 > Teil 1 der "Thron aus Gold & Asche"-Reihe
 
 ## Klappentext

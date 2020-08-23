@@ -27,6 +27,8 @@ arc: true
 > 
 > Erscheinungsdatum: 27.11.2019
 > 
+> Rezensionsexemplar erhalten von: Lesejury und ONE Verlag
+> 
 > Teil 2 der "Strange the Dreamer"-Reihe
 
 ## Klappentext
