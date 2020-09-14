@@ -117,7 +117,7 @@ const StyledArticle = styled.article`
   h3 {
     font-family: var(--font-semibold);
     font-size: 1.25rem;
-    margin: 1.5rem 0;
+    margin: 3rem 0 1.5rem;
   }
 
   small {
