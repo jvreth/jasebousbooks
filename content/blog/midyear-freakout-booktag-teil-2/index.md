@@ -47,7 +47,7 @@ Diese wunderbare, herzerwärmende Grapic Novel Reihe kann einen nur glücklich m
 
 ![P.S. I still love you](./lara-jean.jpg "P.S. I still love you - Jenny Han")
 
-Ich weiß nicht wie es bei euch aussah dieses Jahr, aber irgendwie gab es in der ersten Jahreshälfte gar nicht so viele Buchverfilmungen, deshalb war die Frage für mich auch sehr einfach zu beantworten. Im Februar kam auf Netflix der zweite Teil der "To all the boys I've loved before" raus und den musste ich mir natürlich auch direkt ansehen. Das Buch habe ich gerne gelesen, wobei ich es etwas anstrengender fand als Teil 1. Gerade was die Kommunikationsprobleme zwischen Peter und Lara Jean betrafen. Aber es ist halt ein Jugendbuch und da sind solche Dramen immer vorprogrammiert. Der Film hat mir auch gut gefallen. An sich fand ich ihn wirklich gut umgesetzt, doch mir fehlten ein bisschen die Schmetterlinge die ich beim ersten Film hatte.
+Ich weiß nicht wie es bei euch aussah dieses Jahr, aber irgendwie gab es in der ersten Jahreshälfte gar nicht so viele Buchverfilmungen, deshalb war die Frage für mich auch sehr einfach zu beantworten. Im Februar kam auf Netflix der zweite Teil der "To all the boys I've loved before"-Reihe raus und den musste ich mir natürlich auch direkt ansehen. Das Buch habe ich gerne gelesen, wobei ich es etwas anstrengender fand als Teil 1. Gerade was die Kommunikationsprobleme zwischen Peter und Lara Jean betrafen. Aber es ist halt ein Jugendbuch und da sind solche Dramen immer vorprogrammiert. Der Film hat mir auch gut gefallen. An sich fand ich ihn wirklich gut umgesetzt, doch mir fehlten ein bisschen die Schmetterlinge die ich beim ersten Film hatte.
 
 
 ### 13. Liebste Rezension die ich bis jetzt geschrieben habe
@@ -61,7 +61,7 @@ Da ich zu wirklich jedem gelesenen Buch eine Rezension verfasse, war es schwieri
 
 ![One true Queen, Felix ever After](./most-beautiful.jpg "One true Queen 2 & Felix ever After")
 
-Wer mich kennt weiß, dass ich ein totales Cover Opfer bin. Sobald irgendwo im Buchladen ein Buch ein schönes Cover hat, zieht es mich magisch an. Zum Glück hab ich es in den letzten Jahren geschafft, meinen Konsumrausch und das blinde kaufen von Büchern mit schönen Covern einzuschränken. Trotzdem gibt es natürlich Bücher die ich mir dieses Jahr gekauft habe, welche vom Cover her wirklich ein Traum sind! Ich habe festgestellt, dass ich gerade Illustrationen und starke Farben sehr Liebe auf Covern. Doch es sind manchmal auch die Kleinigkeiten auf einem Cover, wie zum Beispiel bei One true Queen. Die Zeischnung die über das Gesicht der Königin geht, dazu ein bisschen Glitzer und ich bin hin und weg.
+Wer mich kennt weiß, dass ich ein totales Cover Opfer bin. Sobald irgendwo im Buchladen ein Buch ein schönes Cover hat, zieht es mich magisch an. Zum Glück hab ich es in den letzten Jahren geschafft, meinen Konsumrausch und das blinde kaufen von Büchern mit schönen Covern einzuschränken. Trotzdem gibt es natürlich Bücher die ich mir dieses Jahr gekauft habe, welche vom Cover her wirklich ein Traum sind! Ich habe festgestellt, dass ich gerade Illustrationen und starke Farben sehr Liebe auf Covern. Doch es sind manchmal auch die Kleinigkeiten auf einem Cover, wie zum Beispiel bei One true Queen. Die Zeichnung die über das Gesicht der Königin geht, dazu ein bisschen Glitzer und ich bin hin und weg.
 
 Bei Felix ever After haben mich die Farben total angesprochen. Die kräftigen Farben, dazu die schönen Kontraste und die Details, wie z.B. die Blumen und die Tattoos. Für mich ist es einst der schönsten Bücher in meinen Regalen.
 
