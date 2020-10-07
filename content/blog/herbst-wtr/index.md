@@ -7,7 +7,7 @@ category: Leselisten
 signature: true
 ---
 
-Der Sommer hat sich endlich komplett verabschiedet, denn seit einigen Tagen ist es ungemütlich nass kalt draußen und quasi am dauer regnen. Ich persönlich liebe gerade den "Golden Summer", wenn die Sonne noch scheint, es aber kälter draußen wird und die Blätter sich anfangen zu verfärben. Um die ganzen Herbst Gefühle zu erwecken habe ich mir für diesen Herbst eine Leseliste erstellt die ich euch in diesem Post vorstellen werde.
+Der Sommer hat sich endlich komplett verabschiedet, denn seit einigen Tagen ist es ungemütlich nass kalt draußen und quasi am dauer regnen. Ich persönlich liebe gerade den "Golden Summer", wenn die Sonne noch scheint, es aber kälter draußen wird und die Blätter sich anfangen zu verfärben. Um die ganzen Herbst Gefühle zu wecken habe ich mir für diesen Herbst eine Leseliste erstellt die ich euch in diesem Post vorstellen werde. Kleiner Spoiler vorweg: Das Fantasy Genre dominiert diese Liste!
 
 ## 1. Chain of Gold
 
