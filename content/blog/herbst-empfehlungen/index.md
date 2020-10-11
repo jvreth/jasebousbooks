@@ -1,6 +1,6 @@
 ---
 title: "Herbst Empfehlungen"
-date: "2020-10-11"
+date: "2020-10-19"
 description: "Da der Herbst seit einigen Wochen endlich angekommen ist, möchte ich euch in diesem Post einige Bücher empfehlen, die meiner Meinung nach perfekt in die Jahreszeit passen und alle Herbstgefühle wecken."
 thumbnail: autumn.jpg
 category: Leselisten
