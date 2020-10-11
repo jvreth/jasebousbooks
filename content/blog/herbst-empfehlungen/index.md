@@ -19,7 +19,7 @@ Wir fangen mit einer Reihe an, die bei mir alle möglichen Erinnerungen und Gef�
 
 ![Tribute von Panem](./panem.jpg "Tribute von Panem - Suzanne Collins")
 
-Für mich gehört die "Tribute von Panem"-Reihe zu den besten Jugendystopien. Ich habe bis jetzt noch keine gefunden die der Reihe auch nur Ansatzweise das Wasser reichen könnte. Bei mir weckt die Reihe auch die Herbstgefühle, wenn Katniss durch den Wald geht, auf der Jagd ist und sich dabei mit Gale unterhält. Außerdem, passend zum Herz fängt auch mein Fantasy-Herz immer an schneller zu schlagen.
+Für mich gehört die "Tribute von Panem"-Reihe zu den besten Jugendystopien. Ich habe bis jetzt noch keine gefunden die der Reihe auch nur Ansatzweise das Wasser reichen konnte. Bei mir weckt die Reihe auch die Herbstgefühle, wenn Katniss durch den Wald geht, auf der Jagd ist und sich dabei mit Gale unterhält. Außerdem, passend zum Herbst fängt auch mein Fantasy-Herz immer an schneller zu schlagen.
 
 ## 3. Graphic Novels
 
@@ -37,7 +37,7 @@ Die "das Reich der sieben Höfe"-Reihe war meine erste Reihe von Sarah J. Maas u
 
 ![Two can keep a Secret](./two-can-keep-a-secret.jpg "Two can keep a Secret - Karen McManus")
 
-"Two can keep a Secret" steht stellvertrentend für alle Jugenthriller von der Autorin Karen McManus. Thriller passen meiner Meinung nach perfekt in die Jahreszeit, doch ich bin da etwas empfindlich und deshalb greife ich lieber zu Jugenthrillern. "Two can keep a Secret" ist ein eigenständiger Roman und kann den u.A. deswegen für Einsteiger empfehlen.
+"Two can keep a Secret" steht stellvertrentend für alle Bücher von der Autorin Karen McManus. Thriller passen meiner Meinung nach perfekt in die Jahreszeit, doch ich bin da etwas empfindlich und deshalb greife ich lieber zu Jugenthrillern. "Two can keep a Secret" ist ein eigenständiger Roman und ich kann den unter Anderem deswegen für Einsteiger empfehlen.
 
 ## 6. These witches don't burn
 
@@ -49,22 +49,22 @@ Dieses Buch hat mich letztes Jahr komplett überrascht. Ich war eigentlich nur a
 
 ![Elfenkrone](./elfenkrone.jpg "Elfenkrone - Holly Black")
 
-Die "Elfenkrone"-Reihe von Holly Black passt für mich perfekt in den Herbst. In der Welt, welche die Autorin für uns geschaffen hat ist sowieso alles sehr grün und durch die brutalität die durch die Geschichte dazu kommt, passt sie perfekt in den Herbst. Mir persönlich hat die Reihe leider nicht so gut gefallen, das lag aber viel mehr an den Charakteren. Ich wurde leider einfach nicht warm mit denen, die Geschichte jedoch war unfassbar spannend und nur deswegen habe ich alle Teile gelesen.
+Die "Elfenkrone"-Reihe von Holly Black passt für mich perfekt in den Herbst. In der Welt, welche die Autorin für uns geschaffen hat ist sowieso alles sehr grün und durch die Brutalität die durch die Geschichte dazu kommt, passt sie perfekt in den Herbst. Mir persönlich hat die Reihe leider nicht so gut gefallen, das lag aber viel mehr an den Charakteren. Ich wurde leider einfach nicht warm mit denen, die Geschichte war jedoch unfassbar spannend und nur deswegen habe ich alle drei Teile gelesen.
 
 ## 8. Die Ravenboys
 
 ![Ravenboys](./ravenboys2.jpg "Ravenboys Reihe - Maggie Stiefvater")
 
-Jedes Jahr wenn der Herbst so langsam kommt, muss ich an diese Reihe denken. Sie setzt auch im Spätsommer an und weckt dadurch auch alle Herbstgefühle. Die Charaktere sind so besonders und die Geschichte ist zusammen mit dem Schreibstil sehr magisch. Mit dem Herbst verbinde ich immer direkt diese Reihe.
+Jedes Jahr wenn der Herbst so langsam kommt, muss ich an diese Reihe und die Charaktere denken. Sie setzt auch im Spätsommer an und weckt dadurch auch alle Herbstgefühle. Die Charaktere sind so besonders und die Geschichte ist zusammen mit dem Schreibstil sehr magisch. Mit dem Herbst verbinde ich immer direkt diese Reihe. Leider sehe ich sie viel zu selten irgendwo, dabei hat die Reihe so viel Liebe verdient!
 
 ## 9. Carry On
 
 ![Carry On](./carry-on.jpg "Carry On - Rainbow Rowell")
 
-Hexen und Zauberer gehören zum Herbst einfach dazu und deshalb muss natürlich auch die "Simon Snow"-Reihe von Rainbow Rowell mit auf meine Liste. Die Geschichte ist wirklich sehr empfehlenswert, auch wenn sie am Anfang an Harry Potter erinnert. Das lässt aber mit der Zeit nach, denn Simon, seine Freunde und die Welt hat wirklich nichts gemein mit Harry Potter.
+Hexen und Zauberer gehören zum Herbst einfach dazu und deshalb muss natürlich auch die "Simon Snow"-Reihe von Rainbow Rowell mit auf meine Liste. Die Geschichte ist wirklich sehr empfehlenswert, auch wenn sie am Anfang an Harry Potter erinnert. Das lässt aber mit der Zeit nach, denn Simon, seine Freunde und die Welt haben wirklich nichts gemein mit Harry Potter. Den ersten Teil gibt es sogar auf deutsch unter dem Titel "Aufstieg und Fall des außerordentlichen Simon Snow". Ich persönlich würde sie aber auf englisch eher empfehlen, da der Sarkusmus und der Humor des Buches im orinalen viel besser rüberkommt.
 
 ## 10. Redwood Love
 
 ![Redwood Love](./redwood-love.jpg "Redwood Love - Kelly Moran")
 
-Auch wenn ich im Herbst vermehrt zu Fantasy und Science Fiction Büchern greife, hat mich 2018 der erste Redwood Love Teil überzeugen können. Gerade das Setting weckt die ersten Herbstgefühle und die Liebesgeschichte tut ihr übriges dazu.
+Auch wenn ich im Herbst vermehrt zu Fantasy und Science Fiction Büchern greife, hat mich 2018 der erste "Redwood Love"-Teil überzeugen können. Gerade das Setting weckt die ersten Herbstgefühle und die Liebesgeschichte tut ihr übriges dazu. Wer ein Fan von der Serie "Gilmore Girls" ist, wird mit dieser Reihe auch seinen Spaß haben. Mir persönlich hat sie gut gefallen, ganz besonders sogar der zweite Band.
