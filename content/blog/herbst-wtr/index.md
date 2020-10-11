@@ -1,7 +1,7 @@
 ---
 title: "Herbst Leseliste"
 date: "2020-10-11"
-description: "Das Wetter ist ungemütlich, man hört den Regen gegen die Scheibe plätschern und am liebsten liegt man unter einer Decke. Die Zeichen sind alle da: Es ist endlich Herbst! Um die Herbst Vibes auch komplett zu spüren habe ich mir eine Herbst Leseliste zurechtgelegt die ich euch hiermit vorstelle."
+description: "Das Wetter ist ungemütlich, man hört den Regen gegen die Scheibe plätschern und am liebsten liegt man unter einer Decke. Die Zeichen sind alle da: Es ist endlich Herbst! Um die Herbst Gefühle richtig zu nutzen habe ich mir eine Leseliste zusammengestellt die ich euch hiermit vorstelle."
 thumbnail: herbst-wtr.jpg
 category: Leselisten
 signature: true
@@ -33,7 +33,7 @@ Ophelia Scale hatte letztes Jahr schon mein Interesse geweckt, egal wohin ich sc
 
 ## 4. Die Tribute von Panem X
 
-![Die Tribute von Panem X](./tribute-von-panem.jpg "Tribute von Panem X - Suzanne Collins")
+![Die Tribute von Panem X](./panem.jpg "Tribute von Panem X - Suzanne Collins")
 
 Mein Herbst Herz schlägt immer etwas höher wenn ich an die Tribute von Panem denke. Für mich ist eine der besten Dystopien überhaupt! Deshalb habe ich auch zuerst skeptisch auf das neue Buch aus der Reihe reagiert, konnte meine Neugier aber am Ende nicht zügeln und habe es mir trotzdem geholt. Ich hoffe ich schaffe es in diesem Herbst die Geschichte rund um den Bösewicht aus der "Tribute von Panem"-Reihe Präsident Snow zu lesen und ich hoffe auch das sie mich begeistern kann.
 
@@ -57,7 +57,7 @@ Wie weiter oben schon erwähnt finde ich Thriller einfach total passend für den
 
 ## 8. Gut gegen Nordwind / Alle sieben Wellen
 
-![Gut gegen Nordwind / Alle sieben Wellen](./gut-gege-nordwind.jpg "Gut gegen Nordwind / Alle sieben Wellen - Daniel Glattauer")
+![Gut gegen Nordwind / Alle sieben Wellen](./gut-gegen-nordwind.jpg "Gut gegen Nordwind / Alle sieben Wellen - Daniel Glattauer")
 
 Gut gegen Nordwind liegt schon seit einer gefühlten Ewigkeit auf meinem Sub und ich weiß von meiner [besten Freundin](https://www.instagram.com/whatjanereads/), dass es auch ganz gut in den Herbst oder Frühling passt. Außerdem hat ihr das Buch so gut gefallen, dass sie es mir immer und immer wieder empfohlen hat und es mir dann schließlich auch geschenkt hat. Wird also höchste Zeit das ich es endlich lese und hoffentlich gefällt es mir genauso gut.
 
