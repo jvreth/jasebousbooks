@@ -9,6 +9,7 @@ const Footer = () => (
       <Link to="/impressum" title="Impressum">Impressum</Link>
       <Link to="/datenschutz" title="Datenschutz">Datenschutz</Link>
       {/* <Link to="/contact/" title="Kontakt">Kontakt</Link> */}
+      <Link to="/legend/" title="Bewertungslegende">Bewertungslegende</Link>
     </nav>
     <Signature />
   </Container>
