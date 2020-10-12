@@ -12,65 +12,76 @@ $font-josi-semibold: 'JosefinSansSemibold', serif;
 $font-josi-bold: 'JosefinSansBold', serif;
 
 html {
-    font-size: 100%;
-    line-height: 1.5;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
-    text-rendering: optimizelegibility;
-    background-color: $white;
-  }
-  
-  body {
-    min-height: 100vh;
-    font-family: $font-regular;
-    font-size: 1em;
-    line-height: 1.5;
-    color: $greyDarker;
-    -webkit-font-smoothing: antialiased;
-    -webkit-text-size-adjust: 100%;
-    background-color: $white;
-  }
-  
-  *,
-  *:before,
-  *:after {
-    box-sizing: border-box
-  }
+  font-size: 100%;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-rendering: optimizelegibility;
+  background-color: $white;
+}
 
-  figure {
-    margin: 0;
+body {
+  min-height: 100vh;
+  font-family: $font-regular;
+  font-size: 1em;
+  line-height: 1.5;
+  color: $greyDarker;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  background-color: $white;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box
+}
+
+figure {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+
+  li {
+    list-style: none;
   }
+}
 
-  a {
-    text-decoration: none;
-    color: inherit;
+main {
+  margin-top: 5rem;
+}
+
+hr {
+  margin: 2rem 0;
+  border: 1px solid var(--greyLight);
+}
+
+.content {
+  width: 60rem;
+  margin: 2rem auto;
+  padding: 1rem;
+
+  @media screen and (max-width: 64.5em) {
+    width: 100%;
+    margin: 0 auto;
   }
+}
 
-  ul {
-    margin: 0;
-    padding: 0;
-
-    li {
-      list-style: none;
-    }
-  }
-
-  main {
-    margin-top: 5rem;
-  }
-
-  hr {
-    margin: 2rem 0;
-    border: 1px solid var(--greyLight);
-  }
-
-  .content {
-    width: 60rem;
-    margin: 2rem auto;
-    padding: 1rem;
-
-    @media screen and (max-width: 64.5em) {
-      width: 100%;
-      margin: 0 auto;
-    }
-  }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  word-break: break-word;
+  hyphens: auto;
+}
