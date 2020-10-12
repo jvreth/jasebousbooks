@@ -26,7 +26,7 @@ class ArticleFeed extends React.Component {
             <ul className={`${CLASS}__pagination`}>
               {!isFirst && (
                 <li>
-                  <Link to={prevPage} rel="prev">
+                  <Link to={`/blog/${prevPage}`} rel="prev">
                     <FontAwesomeIcon
                       className={`${CLASS}__pagination-icon-prev`}
                       icon={['fas', 'angle-left']}
@@ -48,7 +48,7 @@ class ArticleFeed extends React.Component {
               ))}
               {!isLast && (
                 <li>
-                  <Link to={nextPage} rel="next">
+                  <Link to={`/blog/${nextPage}`} rel="next">
                     <span className={`${CLASS}__pagination-text`}>Nächste Seite</span>
                     <FontAwesomeIcon
                       className={`${CLASS}__pagination-icon-next`}
