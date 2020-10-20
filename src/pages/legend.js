@@ -63,7 +63,7 @@ const Legend = () => (
         <p>
           Bücher mit einer drei Sterne Bewertung find ich leider nur "okay". 
           Oft haben mich die Bücher zwar unterhalten können, aber es gab viele Stellen die mich gestört haben. 
-          Ob es nun die Charaktere waren zu denen ich keine Bindung aufbauen konnte oder die Handlung für mich teilweise nich nachvollziehbar war. 
+          Ob es nun die Charaktere waren zu denen ich keine Bindung aufbauen konnte oder die Handlung für mich teilweise nicht nachvollziehbar war. 
           Drei Sterne Bücher kann ich oft nur eingeschränkt weiterempfehlen.
         </p>
         <hr/>
@@ -74,7 +74,7 @@ const Legend = () => (
         <FontAwesomeIcon className={`${CLASS}__rating-icon`} icon={['fas', 'star']} />
         <p>
           Zwei Sterne Bücher gibt es bei mir nur selten, trotzdem passiert es ab und zu das ich einem Buch leider diese Bewertung geben muss. 
-          Bücher mit dieser Bewertung fand ich von vorne bis hinten meist schlecht. Es gab zu viel das mich gestört hat und mir deshalb den spaß am Lesen vermiest hat. 
+          Bücher mit dieser Bewertung fand ich von vorne bis hinten meist schlecht. Es gab zu viel das mich gestört hat und mir deshalb den spaß am Lesen genommen hat. 
           Es ist oft eine Mischung aus fehlenden Verständnis gegenüber den Charakteren und einer Handlung die ich zum Großteil langweilig fand.
           Diese Bücher kann ich in der Regel nur sehr eingeschränkt weiterempfehlen, zum Beispiel wenn ich merke das ich nicht die Zielgruppe war.
         </p>
