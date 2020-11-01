@@ -1,6 +1,6 @@
 ---
 title: "Rezension: Chain of Gold - Die letzten Stunden"
-date: "2020-10-31"
+date: "2020-11-01"
 description: "Von der eleganten Londoner Soirée zum rauschenden Ball – und unter dem Abendkleid verborgen ein tödlich scharfes Schwert: In Cordelia Carstairs Brust wohnen zwei Seelen. Denn eigentlich sollte die junge Schattenjägerin heiraten. Sie jedoch plant eine Zukunft als Dämonenjägerin – auch in ihren Kreisen eher unüblich Anfang des 20. Jahrhunderts."
 thumbnail: chain-of-gold.jpg
 category: Rezension
