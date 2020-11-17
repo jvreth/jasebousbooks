@@ -1,6 +1,6 @@
 ---
 title: "Rezension: The Loop"
-date: "2020-11-10"
+date: "2020-11-17"
 description: "Jeder Tag im Loop ist die Hölle. Seit zwei Jahren sitzt Luke im Hightech-Jugendgefängnis und wartet auf seine Exekution. Eingesperrt in einer dunklen Zelle, lässt er einmal am Tag die schmerzhafte Energie-Ernte über sich ergehen, die ihm jegliche Kraft raubt. Die immergleiche Routine zerrt an seinen Nerven – bis sich alles ändert. Wachen verschwinden, Insassen nehmen sich das Leben, ein Ausbruch aus dem Loop scheint nun möglich."
 thumbnail: loop.jpg
 category: Rezension
