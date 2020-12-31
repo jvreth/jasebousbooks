@@ -46,13 +46,25 @@ const StyledArticle = styled.article`
       }
     }
 
-    &__text a {
-      color: var(--basic);
-      font-weight: 600;
+    &__text {
+      
+      ul {
+        padding-left: 2rem;
+        line-height: 2;
 
-      &:hover {
-        color: var(--pink);
-        transition: color .2s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+        li {
+          list-style-type: disc;
+        }
+      }
+
+      a {
+        color: var(--basic);
+        font-weight: 600;
+
+        &:hover {
+          color: var(--pink);
+          transition: color .2s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+        }
       }
     }
 
