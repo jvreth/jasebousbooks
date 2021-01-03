@@ -1,7 +1,7 @@
 ---
 title: "Rezension: The Music of What Happens"
 date: "2020-12-31"
-description: "Zwei so unterschiedliche Jungs, der eine mag Sport & Videospiele, der andere schreibt Gedichte & ist eher introvertiert. Jeder hat sein eigenes großes Päckchen zu tragen, doch was passiert wenn beide auf einmal jeden Tag miteinander verbringen & sie sich besser kennen lernen?"
+description: "Zwei so unterschiedliche Jungs, der eine mag Sport & Videospiele, der andere schreibt Gedichte & ist eher introvertiert. Jeder hat sein eigenes großes Päckchen zu tragen, doch was passiert wenn beide auf einmal jeden Tag miteinander verbringen und sie sich besser kennen lernen?"
 thumbnail: music-of-what-happens.jpg
 category: Rezension
 rating: 4
