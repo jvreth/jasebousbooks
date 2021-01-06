@@ -6,19 +6,11 @@ const Container = styled.header`
   right: 0;
   left: 0;
   z-index: 2;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 2rem 1rem;
   border-bottom: 1px solid var(--greyLight);
   background-color: rgba(255,255,255,0.95);
   width: 100%;
   transform: translateY(0);
   transition: transform 0.3s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
-
-  @media screen and (max-width: 42.5em) {
-    padding: 2rem .5rem;
-  }
 
   &.header.shadow {
     box-shadow: 0 9px 9px -9px rgba(0, 0, 0, 0.13);
@@ -26,6 +18,19 @@ const Container = styled.header`
 
   &.header.hidden {
     transform: translateY(-110%);
+  }
+
+  .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 1rem;
+    max-width: 80rem;
+    margin: 0 auto;
+
+    @media screen and (max-width: 42.5em) {
+    padding: 2rem .5rem;
+  }
   }
 
   .nav {

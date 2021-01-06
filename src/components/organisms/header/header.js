@@ -30,20 +30,22 @@ function Header() {
 
   return (
     <Container className={`header ${shadowStyle} ${hiddenStyle}`}>
-      <nav>
-        <ul className="nav">
-          <li className="nav__item">
-            <Link to="/" title="Startseite">Startseite</Link>
-          </li>
-          <li className="nav__item">
-          <Link to="/about-me/" title="Über mich">About Me</Link>
-          </li>
-          <li className="nav__item">
-            <Link to="/blog/" title="Blog Übersicht">Blog</Link>
-          </li>
-        </ul>
-      </nav>
-      <MetaNav />
+      <span className="row">
+        <nav>
+          <ul className="nav">
+            <li className="nav__item">
+              <Link to="/" title="Startseite">Startseite</Link>
+            </li>
+            <li className="nav__item">
+            <Link to="/about-me/" title="Über mich">About Me</Link>
+            </li>
+            <li className="nav__item">
+              <Link to="/blog/" title="Blog Übersicht">Blog</Link>
+            </li>
+          </ul>
+        </nav>
+        <MetaNav />
+      </span>
     </Container>
   )
 }
