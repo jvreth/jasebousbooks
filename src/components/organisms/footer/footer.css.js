@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
-const Container = styled.footer`
-  padding: 4rem 1rem;
+export const Container = styled.footer`
+  padding: 2rem 1rem 4rem 1rem;
   text-align: center;
   background-color: var(--greyLighter);
 
@@ -16,6 +16,8 @@ const Container = styled.footer`
       color: var(--pink);
     }
   }
-`;
+`
 
-export default Container;
+export const Badge = styled.img`
+  margin-bottom: 1rem;
+`
