@@ -40,6 +40,7 @@ const Container = styled.div`
       padding-right: 2rem;
       border-radius: 8px;
       overflow: hidden;
+      max-height: 280px;
 
       @media screen and (max-width: 42.5em) {
         padding-right: 0;
