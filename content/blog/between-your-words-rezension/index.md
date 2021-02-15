@@ -1,6 +1,6 @@
 ---
 title: "Rezension: Between your words"
-date: "2021-02-09"
+date: "2021-02-15"
 description: "Thea leidet unter einer dramatischen Form der Amnesie. Sie hat fünf Minuten, bevor ihr Kurzzeitgedächtnis wieder gelöscht wird. Für alle außer Jim Whelan ist sie ein hoffnungsloser Fall. Allein Jim erkennt, dass ihre seltsamen Kunstwerke aus Wortketten ein Hilferuf sind. Kann er alleine Thea retten?"
 thumbnail: between-ur-words.jpg
 category: Rezension
