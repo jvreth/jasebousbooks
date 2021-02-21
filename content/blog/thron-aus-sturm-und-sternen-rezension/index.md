@@ -1,7 +1,7 @@
 ---
 title: "Rezension: Thron aus Sturm und Sternen - Seelendonner"
-date: "2021-02-20"
-description: ""
+date: "2021-02-21"
+description: "Als ein Krieg um den Thron ausbricht, gerät Kauna aus dem längst vergessenen Stamm der Crae unfreiwillig zwischen die Fronten: auf der einen Seite der Königssohn Malik, dem sie ihr Leben zu verdanken hat. Auf der anderen ihre große Liebe Gil, dessen Vater die Macht an sich zu reißen und ihren Stamm zu unterwerfen droht. Als Kauna dem Ruf ihres Herzens folgt, verliert sie alles, was ihr je etwas bedeutet hat..."
 thumbnail: seelendonner.jpg
 category: Rezension
 rating: 3.0
