@@ -1,6 +1,6 @@
 ---
 title: "Rezension: Aurora erwacht"
-date: "2021-02-24"
+date: "2021-03-01"
 description: "Tyler, ausgebildeter Musterschüler der besten Space Academy der ganzen Galaxie, freut sich auf seinen ersten Auftrag. Doch statt mit den besten in einem Team zu landen, muss er in ein Team mit Losern und Außenseitern. Doch das ist nicht sein größtes Problem, denn er selbst ist in den verbotenen interdimensionalen Raum vorgedrungen und hat ein seit 200 Jahren verschollenes Siedlerschiff gefunden..."
 thumbnail: aurora-erwacht.jpg
 category: Rezension
