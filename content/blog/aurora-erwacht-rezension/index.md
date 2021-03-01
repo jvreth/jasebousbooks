@@ -2,7 +2,7 @@
 title: "Rezension: Aurora erwacht"
 date: "2021-02-24"
 description: "Tyler, ausgebildeter Musterschüler der besten Space Academy der ganzen Galaxie, freut sich auf seinen ersten Auftrag. Doch statt mit den besten in einem Team zu landen, muss er in ein Team mit Losern und Außenseitern. Doch das ist nicht sein größtes Problem, denn er selbst ist in den verbotenen interdimensionalen Raum vorgedrungen und hat ein seit 200 Jahren verschollenes Siedlerschiff gefunden..."
-thumbnail:
+thumbnail: aurora-erwacht.jpg
 category: Rezension
 rating: 5.0
 arc: true
@@ -29,16 +29,16 @@ arc: true
 > 
 > Teil 1 der "Aurora Cycle"-Reihe
 >
-> Rezensionsexemplar erhalten von: NetGalley und Fischer Sauerländer
+> Rezensionsexemplar erhalten von: NetGalley und FISCHER Sauerländer
 
 ## Klappentext
 Tyler, frisch ausgebildeter Musterschüler der besten Space Academy der ganzen Galaxie, freut sich auf seinen ersten Auftrag. Als sogenannter „Alpha“ steht es ihm zu, sein Team zusammenzustellen – und er hat vor, sich mit nichts weniger als den Besten zufrieden zu geben. Tja, die Realität sieht anders aus: Er landet in einem Team aus Losern und Außenseitern:
 
-Scarlett, die Diplomatin – Sarkasmus hilft immer (not.)
-Zila, die Wissenschaftlerin – dezent soziopathisch veranlagt
-Finian, der Techniker – besser: der Klugscheißer
-Kaliis, der Kämpfer – es gibt definitiv Menschen, die ihre Aggressionen besser unter Kontrolle haben
-Cat, die Pilotin – die sich absolut nicht für Tyler interessiert (behauptet sie zumindest)
+- Scarlett, die Diplomatin – Sarkasmus hilft immer (not.)
+- Zila, die Wissenschaftlerin – dezent soziopathisch veranlagt
+- Finian, der Techniker – besser: der Klugscheißer
+- Kaliis, der Kämpfer – es gibt definitiv Menschen, die ihre Aggressionen besser unter Kontrolle haben
+- Cat, die Pilotin – die sich absolut nicht für Tyler interessiert (behauptet sie zumindest)
 
 Doch dieses Katastrophenteam ist nicht Tylers größtes Problem. Denn er selbst ist in den verbotenen interdimensionalen Raum vorgedrungen und hat ein seit 200 Jahren verschollenes Siedlerschiff gefunden. An Bord 1.000 Tote und ein schlafendes Mädchen: Aurora. Vielleicht hätte er sie besser nicht geweckt. Ein Krieg droht auszubrechen – und ausgerechnet sein Team soll das verhindern. Ouuups. Don’t panic!
 
