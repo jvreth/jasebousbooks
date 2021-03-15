@@ -1,8 +1,8 @@
 ---
 title: "Rezension: Crescent City - Wenn das Dunkel erwacht"
-date: "2020-03-15"
+date: "2021-03-15"
 description: "Magie, Musik – und tödliche Gefahren: Die junge Bryce Quinlan, Halb-Fae und Halb-Mensch, genießt jedes Vergnügen, das Crescent Citys Nächte zu bieten haben. Doch dann passiert etwas schreckliches – und für Bryce bricht die ganze Welt zusammen."
-thumbnail: crescent-city.jpg
+thumbnail: crescent-city.jpeg
 category: Rezension
 rating: 5.0
 ---
