@@ -37,7 +37,7 @@ Addie LaRue ist die Frau, an die sich niemand erinnert. Die unbekannte Muse auf 
 Seit sie im Jahre 1714 einen Pakt mit dem Teufel geschlossen hat, ist sie dazu verdammt, ein ruheloses Leben ohne Freunde oder Familie zu führen und als anonyme Frau die Großstädte zu durchstreifen. Bis sie dreihundert Jahre später in einem alten, versteckten Antiquariat in New York einen jungen Mann trifft, der sie wiedererkennt. Und sich in sie verliebt.
 
 ## Meine Meinung
-"Das unsichtbare Leben der Addi LaRue" von V.E. Schwab, erschienen beim FISCHER Tor Verlag, war eins meiner Most Anticipated Releases für dieses Jahr. Von der Autorin hatte ich letztes Jahr das Buch "Vicious" gelesen und war total begeistert von ihrem Schreibstil und wie sie den Charakteren Leben eingehaucht hat. Als ich dann die ersten positiven Stimmen aus dem englischsprachigen Raum gelesen habe, war ich super aufgeregt!
+"Das unsichtbare Leben der Addie LaRue" von V.E. Schwab, erschienen beim FISCHER Tor Verlag, war eins meiner Most Anticipated Releases für dieses Jahr. Von der Autorin hatte ich letztes Jahr das Buch "Vicious" gelesen und war total begeistert von ihrem Schreibstil und wie sie den Charakteren Leben eingehaucht hat. Als ich dann die ersten positiven Stimmen aus dem englischsprachigen Raum gelesen habe, war ich super aufgeregt!
 
 Die Geschichte startete für mich sehr emotional. Addie ist noch jung und will auf gar keinen Fall heiraten, so wie es in der Zeit üblich war. Sie wollte frei sein, die Welt erkunden und ihr Leben leben. Voller Verzweiflung betet sie zu den alten Göttern und bittet um Hilfe, unwissend wer vor ihnen am Ende vor ihr steht. Letzendlich geht sie ein Abkommen ein, mit einer Gottheit, die uns besser bekannt ist als der Teufel.
 
