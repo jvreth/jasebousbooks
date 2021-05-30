@@ -23,7 +23,7 @@ arc: true
 >
 > Verlag: Knaur Taschenbuch
 >
-> Erscheinungsdatum: 26.05.2021
+> Erscheinungsdatum: 03.05.2021
 >
 > Teil 1 der "Imperator"-Reihe
 >
