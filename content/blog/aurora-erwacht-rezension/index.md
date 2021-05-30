@@ -10,23 +10,23 @@ arc: true
 
 ## Über das Buch
 > Titel: Aurora erwacht
-> 
+>
 > Autor/in: Amie Kaufman, Jay Kristoff
 >
->Übersetzer/in: Nadine Püschel
-> 
+> Übersetzer/in: Nadine Püschel
+>
 > ASIN: B08LKKGZVY
-> 
+>
 > Sprache: Deutsch
-> 
+>
 > Dateigröße: 953 KB
-> 
+>
 > Seitenzahl der Print-Ausgabe: 496 Seiten
-> 
+>
 > Verlag: FISCHER Sauerländer
-> 
+>
 > Erscheinungsdatum: 24.02.2021
-> 
+>
 > Teil 1 der "Aurora Cycle"-Reihe
 >
 > Rezensionsexemplar erhalten von: NetGalley und FISCHER Sauerländer
@@ -43,7 +43,7 @@ Tyler, frisch ausgebildeter Musterschüler der besten Space Academy der ganzen G
 Doch dieses Katastrophenteam ist nicht Tylers größtes Problem. Denn er selbst ist in den verbotenen interdimensionalen Raum vorgedrungen und hat ein seit 200 Jahren verschollenes Siedlerschiff gefunden. An Bord 1.000 Tote und ein schlafendes Mädchen: Aurora. Vielleicht hätte er sie besser nicht geweckt. Ein Krieg droht auszubrechen – und ausgerechnet sein Team soll das verhindern. Ouuups. Don’t panic!
 
 ## Meine Meinung
-"Aurora erwacht" von Amie Kaufman und Jay Kristoff, erscheinen beim FISCHER Sauerländer Verlag, war eins meiner "Most Anticipated" Neuerscheinungen von 2021 und ich wusste schon von Anfang an, dass es mir gefallen wird. Denn das Autoren Gespann konnte mich schon bei den Illuminae Akten von sich überzeugen und ich lag mit meinem Bauchgefühl richtig, weil "Aurora erwacht" für mich ein Highlight war!
+"Aurora erwacht" von Amie Kaufman und Jay Kristoff, erschienen beim FISCHER Sauerländer Verlag, war eins meiner "Most Anticipated" Neuerscheinungen von 2021 und ich wusste schon von Anfang an, dass es mir gefallen wird. Denn das Autoren Gespann konnte mich schon bei den Illuminae Akten von sich überzeugen und ich lag mit meinem Bauchgefühl richtig, weil "Aurora erwacht" für mich ein Highlight war!
 
 Aber zu aller Erst möchte ich dem Verlag meinen Dank ausrichten. Nachdem Obsidio, der letzte Teil der Illuminae Akten nicht übersetzt werden sollte, hatte ich Angst. Angst das "Aurora rising" nicht im deutschen erscheinen wird. Deshalb möchte ich mich an dieser Stelle ausdrücklich beim Verlag bedanken, dass sie es für uns Leser möglich gemacht haben und das Buch in ihr Programm genommen haben, somit entstand aus "Aurora rising" - "Aurora erwacht".
 
