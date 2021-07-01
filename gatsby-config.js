@@ -100,7 +100,7 @@ module.exports = {
       resolve: `gatsby-source-instagram`,
       options: {
         username: `5810500288`,
-        access_token: `EAAFnN7cHlpUBALxXvC5vuli3247EPZAUZCTC8Ov5TwTSE0DVPgKgKFSY3Oa1NGJ7CuQVzqRi3EtyHvIm3bQDKSp8LAk4MEQPqzUtUW6YjrUXwoISCqdcjKSBsIpqKbZBf0wa5PE06cbYNYY5qVz8bLNbzPZCZBZAbTNtyDx8J7NwNw9BT1cWJ6`,
+        access_token: `EAAFnN7cHlpUBAHvnxXqxW3MYeTKLgfdLmgWhX6P6mAylEOF8HvCyXEXv05908gjKizQCLZC6KR5RpZC80KDl3xFswUYysm7H1Pq5UIAzObZBbdMGz1OZB5bkAn5zHoliGJLZAHq0tJIMEXtWu4ZAt93YZB8ZBbRzNejAVmvW9WWW3gZDZD`,
         instagram_id: `17841405888646312`,
       },
     },
