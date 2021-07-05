@@ -15,7 +15,7 @@ import { fab } from "@fortawesome/free-brands-svg-icons"
 
 import Header from "./organisms/header/header"
 import Footer from "./organisms/footer/footer"
-import InstagramFeed from "./organisms/instagram-feed/instagram"
+// import InstagramFeed from "./organisms/instagram-feed/instagram"
 
 library.add(fas, fab);
 
@@ -37,7 +37,6 @@ const Layout = ({ children, className }) => {
           <div className={className}>
             {children}
           </div>
-          <InstagramFeed />
         </main>
       <Footer />
     </>
