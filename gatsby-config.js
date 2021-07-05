@@ -96,14 +96,14 @@ module.exports = {
         }
       }
     },
-    {
-      resolve: `gatsby-source-instagram`,
-      options: {
-        username: `5810500288`,
-        access_token: `EAAFnN7cHlpUBALftkQxs1AaLZBoeZCxtj4lEpqBRfmBHZAQX5weziQwe5nACQEtt6MNzkbYRnLTZBdbyrQbqpKrOoxypkA2WtMlQSbCTMkIQ8ZCBkJ24n5Xjm9xNJEgLkAuYaTWIHwkvWifvrpDkkOssoBiJUeaeArY4KHud7BZBQXQotTffRZA`,
-        instagram_id: `17841405888646312`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-source-instagram`,
+    //   options: {
+    //     username: `5810500288`,
+    //     access_token: `EAAFnN7cHlpUBALftkQxs1AaLZBoeZCxtj4lEpqBRfmBHZAQX5weziQwe5nACQEtt6MNzkbYRnLTZBdbyrQbqpKrOoxypkA2WtMlQSbCTMkIQ8ZCBkJ24n5Xjm9xNJEgLkAuYaTWIHwkvWifvrpDkkOssoBiJUeaeArY4KHud7BZBQXQotTffRZA`,
+    //     instagram_id: `17841405888646312`,
+    //   },
+    // },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
