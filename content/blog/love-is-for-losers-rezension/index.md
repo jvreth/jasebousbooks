@@ -53,3 +53,6 @@ Das Buch war aufgebaut wie ein Tagebuch und deshalb bestand es zum Großteil aus
 Die Geschichte war total locker und sehr leicht, auch wenn einige ernsthafte Themen hier ihren Platz gefunden haben, hat die Autorin das wirklich gut gelöst. Ich mochte es sehr, wie Phoebe langsam lernt mit einigen Situationen umzugehen und wie sie und Emma sich langsam annähern. Was ich auch toll fand war, wie Phoebes Umfeld auf ihre sexuelle Neigung reagiert hat. Es war vollkommen normal und niemand hat merkwürdig reagiert. Genau sowas sollte viel öfters in Kinder- und Jugendbüchern vorkommen, damit die nächste Generation direkt lernt, dass u.A. Homosexualität vollkommen normal ist.
 
 Das Ende des Buches habe ich sehr gemocht, auch wenn es zum Großteil noch offen blieb und Raum für einen zweiten Teil lässt. Ich persönlich würde mich über eine Fortsetzung sehr freuen, denn Phoebe war mir so sympathisch das ich unbedingt noch mehr über sie lesen würde.
+
+### Fazit
+Eine lustige und leichte Lektüre, die mich das ein oder andere mal laut zum lachen gebracht hat. Gerade für jugendliche und Erwachsene die etwas zu lachen brauchen, ist das Buch perfekt.
