@@ -2,12 +2,16 @@ import styled from 'styled-components'
 
 const StyledArticle = styled.article`
   padding: 0 1rem 0;
-  
+
   .article-page {
 
     &__image {
       display: block;
       margin: 0 auto;
+
+      @media screen and (min-width: 43.5em) {
+        max-width: 40rem;
+      }
     }
 
     &__meta {
@@ -47,7 +51,7 @@ const StyledArticle = styled.article`
     }
 
     &__text {
-      
+
       ul {
         padding-left: 2rem;
         line-height: 2;
@@ -95,7 +99,7 @@ const StyledArticle = styled.article`
 
     &__rating {
       font-size: 1.5rem;
-      
+
       &-icon {
         color: var(--basic);
         margin-right: 1rem;
@@ -119,13 +123,13 @@ const StyledArticle = styled.article`
       font-size: 2.5rem;
     }
   }
-  
+
   h2 {
     font-size: 1.75rem;
     font-family: var(--font-semibold);
     margin: 2rem 0;
   }
-  
+
   h3 {
     font-family: var(--font-semibold);
     font-size: 1.25rem;
@@ -150,6 +154,6 @@ const StyledArticle = styled.article`
       line-height: 1rem;
     }
   }
-`; 
+`;
 
 export default StyledArticle
