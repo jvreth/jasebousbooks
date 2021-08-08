@@ -1,11 +1,14 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "jasebousbooks",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "A book blog with book reviews and recommendations. Made with react and gatsby.",
+  "version": "1.0.0",
+  "author": "Jasmin von Reth <jasmin.vonreth@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/jvreth/jasebousbooks/issues"
+  },
+  "engines": {
+    "node": ">=12.13.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
