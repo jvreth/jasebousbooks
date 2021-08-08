@@ -4,7 +4,7 @@ date: "2021-08-08"
 description: "Phoebe ist 15 Jahre alt und kann Hormone nicht leiden, denn die sind es Schuld das sich ihre beste Freundin zum ersten Mal verliebt hat & sie seitdem ignoriert. Phoebe ist eins klar: Hormone lösen im Gehirn einen chemischen Shitstorm aus. Und das kann sie echt nicht gebrauchen, neben den Prüfungen und so! Doch dann trifft sie Emma – und wird selbst zum Opfer..."
 thumbnail: love-is-for-losers.jpeg
 category: Rezension
-rating: 4.5
+rating: 4
 arc: true
 ---
 
