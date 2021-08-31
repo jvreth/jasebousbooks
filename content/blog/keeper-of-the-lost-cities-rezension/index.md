@@ -27,7 +27,7 @@ arc: true
 >
 > Erscheinungsdatum: 30.08.2021
 >
-> Staffel 1 der "Keeper of the Lost Cities"-Reihe
+> Teil 1 der "Keeper of the Lost Cities"-Reihe
 >
 > Rezensionsexemplar erhalten von: NetGalley und arsEdition
 
