@@ -33,9 +33,11 @@ arc: true
 
 ## Klappentext
 **Keeper of the Lost Cities. Der Aufbruch**
+
 Ein episches Fantasy-Abenteuer der preisgekrönten New York Times und USA Today Bestseller-Autorin Shannon Messenger. Der erste Band einer fantastischen Serie um Elfen, Freundschaft und Magie mit jeder Menge Spannung für Mädchen und Jungen ab 10 Jahren.
 
 **Ein episches Abenteuer beginnt...**
+
 Die 12-jährige Sophie scheint nicht in ihr eigenes Leben zu passen. Sie ist hochintelligent und hat mehrere Klassen übersprungen. Und sie hütet ein großes Geheimnis: Sophie kann die Gedanken ihrer Mitmenschen lesen. Ihr ganzes Leben lang fühlte sie sich als Außenseiterin. Bis sie Fitz trifft, einen geheimnisvollen Jungen. Er teilt ihr das Unglaubliche mit: Sie ist mit ihren Fähigkeiten nicht allein. Und sie gehört dem Volk der Elfen an. Für Sophie beginnt ein neues Leben. Ab sofort besucht sie im Elfenreich eine Zauberschule. Doch ihre Vergangenheit holt Sophie immer wieder ein: Wer ist sie wirklich? Warum wurde sie in der Menschenwelt versteckt – und vor wem? Die Antworten auf diese Fragen könnten über Leben und Tod entscheiden...
 
 ## Meine Meinung
