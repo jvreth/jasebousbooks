@@ -8,7 +8,7 @@
     "url": "https://github.com/jvreth/jasebousbooks/issues"
   },
   "engines": {
-    "node": ">=12.13.0"
+    "node": ">=14.15.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
