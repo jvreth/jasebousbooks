@@ -74,7 +74,7 @@ export const Headline = styled.h1`
     font-size: 10em;
 
     &:before {
-      border-width: 35px;
+      border-width: 33px;
     }
   }
 `;
