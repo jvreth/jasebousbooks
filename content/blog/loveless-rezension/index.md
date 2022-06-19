@@ -55,4 +55,5 @@ Georgia war für mich eine tapfere, kluge und absolut authentische Protagonistin
 
 Die Handlung ist der Geschichte entsprechend eher ruhig gehalten und sie langweilte mich zu keinem Zeitpunkt. Nur zum Ende hin hatte ich das Gefühl es ist zu lang. Für mich hätten es auch ein paar weniger Kapitel getan.
 
+### Fazit
 Alles in allem ist das Buch eine ganz besondere und authentische Geschichte, die mit einer sehr starken Protagonistin punktet.
