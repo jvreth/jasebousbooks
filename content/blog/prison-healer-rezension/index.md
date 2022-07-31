@@ -48,3 +48,6 @@ Ab einem gewissen Punkt spürte ich so einige Panem und „Red Queen“-Vibes. B
 Kiva scheint zu Beginn des Besuches zwar eine mutige junge Frau zu sein, die doch aber lieber auf der sicheren Seite des Lebens zu stehen scheint. Im weiteren Verlauf habe ich jedoch gemerkt, dass dies nur die Oberfläche von ihr zu schein seid. Sie hat einen starkes Gerechtigkeitsempfinden und doch hatte ich das Gefühl da ist noch mehr. Mein Gefühl trog mich nicht, denn das Ende verrät, das noch viel mehr in Kiva und ihren Absichten steckt.
 
 Ihr vermutet es wahrscheinlich schon und deshalb sollte meine Leseempfehlung keine Überraschung für euch sein. Ich empfehle euch, auch wenn ihr die erste Hälfte vielleicht als nicht so super spannend empfindet, bleibt dran. Denn das Ende wird euch umhauen und ich persönlich kann es gar nicht mehr erwarten bis endlich der zweite Teil in Deutschland erscheint.
+
+### Fazit
+Nach anfänglichen Schwierigkeiten mauserte sich das Buch zu einem Highlight. Das Ende un der Plot Twist haben mich gänzlich überzeugen können. Ich bin sehr auf Kivas Reise und ihre Charakterentwicklung gespannt.
