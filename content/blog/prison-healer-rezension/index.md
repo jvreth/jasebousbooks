@@ -50,4 +50,4 @@ Kiva scheint zu Beginn des Besuches zwar eine mutige junge Frau zu sein, die doc
 Ihr vermutet es wahrscheinlich schon und deshalb sollte meine Leseempfehlung keine Überraschung für euch sein. Ich empfehle euch, auch wenn ihr die erste Hälfte vielleicht als nicht so super spannend empfindet, bleibt dran. Denn das Ende wird euch umhauen und ich persönlich kann es gar nicht mehr erwarten bis endlich der zweite Teil in Deutschland erscheint.
 
 ### Fazit
-Nach anfänglichen Schwierigkeiten mauserte sich das Buch zu einem Highlight. Das Ende un der Plot Twist haben mich gänzlich überzeugen können. Ich bin sehr auf Kivas Reise und ihre Charakterentwicklung gespannt.
+Nach anfänglichen Schwierigkeiten mauserte sich das Buch zu einem Highlight. Das Ende und der Plot Twist haben mich gänzlich überzeugen können. Ich bin sehr auf Kivas Reise und ihre Charakterentwicklung gespannt.
