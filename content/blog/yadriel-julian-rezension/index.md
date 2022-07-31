@@ -27,7 +27,7 @@ arc: true
 >
 > Erscheinungsdatum: 28.06.2022
 >
-> Rezensionsexemplar erhalten von: NetGalley und Drangonfly Verlag
+> Rezensionsexemplar erhalten von: NetGalley und Dragonfly Verlag
 
 ## Klappentext
 Yadriel hat einen Geist beschworen - aber leider den falschen. Ein paar Tage vor dem Tag der Toten will Yadriel endlich beweisen, dass er ein brujo ist. Alle in seiner Familie können heilen oder Geister beschwören, aber weil Yadriel trans ist, verwehren sie ihm das Ritual, bei dem ihm Santa Muerte seine Kräfte verleiht. Mit der Hilfe seiner Cousine und besten Freundin Maritza schafft er es allein. Doch bei seiner ersten Beschwörung geht etwas schief und der falsche Geist steht vor ihm: Julian, der Bad Boy seiner Highschool, ist weit davon entfernt, bereitwillig ins Reich der Toten überzutreten. Mit Yadriels Hilfe will er herausfinden, wie er gestorben ist. Und je mehr Zeit sie gemeinsam verbringen, desto weniger will auch Yadriel, dass Julian geht.
