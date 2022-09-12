@@ -84,7 +84,7 @@ const AboutMe = () => (
           <strong>Hi, ich bin Jasebousbooks <span aria-labelledby="wave emoji" role="img">👋🏻</span></strong><br />
         </p>
         <p>
-          Eigentlich heiße ich Jasmin, bin 30 Jahre alt und komme gebürtig aus Köln.
+          Eigentlich heiße ich Jasmin, bin 31 Jahre alt und komme gebürtig aus Köln.
           Seit 2019 lebe ich aber mit meinem Freund und zwei Kaninchen im schönen Leverkusen und genieße vollkommen das ländliche Leben, welches wir uns hier aufgebaut haben.<br />
           Beruflich hat es mich in die IT-Branche getrieben. Als ich mein Abitur gemacht hab wollte ich "unbedingt etwas mit Medien" machen, ein normales Studium wollte ich aber nicht. 
           Denn um ganz ehrlich zu sein, hatte ich nach 13 Jahren Schule genug von trockenem Unterricht. Ich suchte mir also eine Hochschule, die sich auf die praktische Lehrweise spezialisiert hat und hab nach 6 Semestern meinen Bachelor of Arts im Bereich Webdesign &amp; Development abgeschlossen. 
