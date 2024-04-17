@@ -76,7 +76,7 @@ const AboutMe = () => (
     <div className="content">
       <Headline>About Jasebousbooks</Headline>
       <Container>
-        <Image src="/images/jasebousbooks.jpg" alt="Jasebousbooks Bild" />
+        <Image src="/images/jasebousbooks-2024.jpeg" alt="Jasebousbooks Bild" width="650" />
         <Quote>
           So many books, so little time
         </Quote>
@@ -84,8 +84,8 @@ const AboutMe = () => (
           <strong>Hi, ich bin Jasebousbooks <span aria-labelledby="wave emoji" role="img">👋🏻</span></strong><br />
         </p>
         <p>
-          Eigentlich heiße ich Jasmin, bin 31 Jahre alt und komme gebürtig aus Köln.
-          Seit 2019 lebe ich aber mit meinem Freund und ehemals zwei Kaninchen im schönen Leverkusen und genieße vollkommen das ländliche Leben, welches wir uns hier aufgebaut haben.<br />
+          Eigentlich heiße ich Jasmin, bin 32 Jahre alt und komme gebürtig aus Köln.
+          Seit 2019 lebe ich aber mit meinem Freund und einem Kaninchen im schönen Leverkusen und genieße vollkommen das ländliche Leben, welches wir uns hier aufgebaut haben.<br />
           Beruflich hat es mich in die IT-Branche getrieben. Als ich mein Abitur gemacht hab wollte ich "unbedingt etwas mit Medien" machen, ein normales Studium wollte ich aber nicht.
           Denn um ganz ehrlich zu sein, hatte ich nach 13 Jahren Schule genug von trockenem Unterricht. Ich suchte mir also eine Hochschule, die sich auf die praktische Lehrweise spezialisiert hat und hab nach 6 Semestern meinen <i>Bachelor of Arts</i> im Bereich <i>Webdesign &amp; Development</i> abgeschlossen.
           Nach ein paar Agentur Erfahrungen und über vier Jahren als interne Frontend-Entwicklerin in einem Baumarkt arbeite ich mittlerweile als Frontend-Entwicklerin für eine Bewertungsplattform wo ich unter anderem, dass Kunden Control Center mit meinen Kollegen betreue.<br />
@@ -114,7 +114,7 @@ const AboutMe = () => (
           Ich reise immer noch, aber nicht mehr so oft und ich versuche, soweit es möglich ist mit dem Zug zu reisen.
         </p>
         <p>
-          Wenn du mehr über mich erfahren möchtest oder du einfach neugierig bist dann schau doch auf meinem <Link as="a" target="_blank" href="https://instagram.com/jasebousbooks/">Instagram Kanal</Link> vorbei. Dort teile ich nicht nur meine Leidenschaft fürs Lesen, sondern auch meinen Alltag.
+          Wenn du mehr über mich erfahren möchtest oder du einfach neugierig bist dann schau doch auf meinem <Link as="a" target="_blank" href="https://instagram.com/jasebousbooks/" title="Instagram Profil">Instagram Kanal</Link> oder <Link as="a" target="_blank" href="https://www.tiktok.com/@jasebousbooks" title="TikTok Profil">TikTok Profil</Link> vorbei. Dort teile ich nicht nur meine Leidenschaft fürs Lesen, sondern auch meinen Alltag.
         </p>
       </Container>
     </div>
