@@ -2,7 +2,7 @@
 title: "Rezension: The Soulmate Equation"
 date: "2024-04-16"
 description: "Die begnadete Datenanalystin Jess Davis glaubt an Zahlen und Statistiken. Den Glauben an die große Liebe hat sie längst verloren. Doch dann wird sie von ihrer besten Freundin dazu überredet, eine neue Dating-Agentur auszuprobieren, die wie für Jess gemacht scheint...."
-thumbnail: soulmate-equation.jpg
+thumbnail: soulmate-equation.jpeg
 category: Rezension
 rating: 5
 arc: true
