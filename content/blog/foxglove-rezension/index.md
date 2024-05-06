@@ -46,7 +46,7 @@ Die Verbindung zwischen Blythe und Signa habe ich sehr gemocht, schon im ersten 
 
 Blythe war für mich ein Charakter, welcher ganz nach meinem Geschmack war. Sie ist so stark, wie sie sich immer wieder zurück ins Leben gekämpft hat, nie aufgegeben hat und wie sie auch nicht davor zurückschreckt für ihren Vater zu kämpfen, hat mich zutiefst berührt. Auch die Entwicklung von Signa hat mich angesprochen in „Foxglove“. Das Verantwortungsgefühl, was sie gegenüber den Hawthornes empfindet und die Trauer, welche sie empfindet nachdem sie mehr über ihre eigene Familie und Eltern erfährt und sie dennoch weiter kämpft, fand ich bewundernswert.
 
-Nachdem das Schicksal und dessen Rolle in der Geschichte offengelegt wurde, hatte ich so ein Gefühl, was es damit auf sich hat und ich lag am Ende auch nicht falsch. Dennoch war die Autorin erfolgreich damit, mich immer wieder zu verwirren und auf falsche Wege zu führen, sodass ich an meinem Bauchgefühl zweifelte.
+Nachdem das Schicksal und dessen Rolle in der Geschichte offengelegt wurde, hatte ich so ein Gefühl, was es damit auf sich hat und ich lag am Ende auch nicht falsch. Dennoch war die Autorin erfolgreich damit, mich immer wieder zu verwirren und auf falsche Wege zu führen, sodass ich an meinem Bauchgefühl zweifelte. Was mich leider etwas störte war das "Love Triangle", so recht kam dies nicht voran und hat sich meiner Meinung nach größtenteils im Kreis gedreht.
 
 Ich denke im dritten Teil wird sich alles hauptsächlich um das Schicksal drehen und Blythe Rolle. Ich bin wirklich sehr gespannt darauf wie diese besondere Reihe enden wird.
 
