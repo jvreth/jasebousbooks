@@ -2,7 +2,7 @@
 title: "Rezension: A Marvellous Light - Der magische Fluch"
 date: "2024-07-01"
 description: "Baronet Robin Blyth tritt seinen neuen Job an. Eigentlich hatte er einen langweiligen Verwaltungsposten erwartet, doch stattdessen ist er plötzlich Verbindungsmann zu einer magischen Geheimgesellschaft. Sein Vorgänger ist spurlos verschwunden – und hinterließ nur einen Haufen Feinde, die Robin mit einem tödlichen Fluch belegen."
-thumbnail: marvellous-light.jpeg
+thumbnail: a-marvellous-light.jpeg
 category: Rezension
 rating: 4
 arc: true
