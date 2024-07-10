@@ -48,7 +48,7 @@ Robin und Edwin waren wunderbare Charaktere, sie sind vielschichtig und ihre Ent
 
 Die Handlung empfand ich von Beginn an spannend. Sie war packend und voller Wendungen, welche die Spannungskurve dadurch konstant hochhielten. Die Elemente der Magie, dazu die Geheimnisse ergaben zusammen eine faszinierende Welt. Getoppt wurde das ganze zusätzlich mit Nebencharakteren, welche bei mir unterschiedliche Emotionen hervorgerufen haben. Zum einen die Freunde und Familie von Edwin, welche ich überhaupt nicht sympathisch fand. Auf der anderen Seite dann die Schwester und Assistentin von Robin, welche das genaue Gegenteil waren, nämlich liebenswert und herzerwärmend.
 
-Freya Marske schafft es mit ihrem Debut zusätzlich noch die wichtigen Themen der Identität, Zugehörigkeit und Akzeptanz zu erforschen, welche der Geschichte die zusätzliche Emotionalität gab. Es war für mich eine großartige Reise voller Abenteuer, Geheimnisse und Romantik. An einigen Stellen war mir die Geschichte etwas zu langsam, dennoch war es eine packende Geschichte, welche mich unter anderem auch sehr berührt hat.
+Freya Marske schafft es mit ihrem Debüt zusätzlich noch die wichtigen Themen der Identität, Zugehörigkeit und Akzeptanz zu erforschen, welche der Geschichte die zusätzliche Emotionalität gab. Es war für mich eine großartige Reise voller Abenteuer, Geheimnisse und Romantik. An einigen Stellen war mir die Geschichte etwas zu langsam, dennoch war es eine packende Geschichte, welche mich unter anderem auch sehr berührt hat.
 
 ### Fazit
 
