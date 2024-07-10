@@ -1,8 +1,8 @@
 ---
 title: "Rezension: The Cheat Sheet – Ist es je zu spät, die Friendzone zu verlassen?"
-date: "2024-04-20"
+date: "2024-07-07"
 description: "Seit sie sich erinnern kann, ist Bree in ihren besten Freund und berühmten Footballspieler Nathan verliebt. Aber Bree traut sich nicht, den nächsten Schritt zu machen. Bis ihr während einer Partynacht einer Reporterin gegenüber herausrutscht, dass sie Nathan liebt..."
-thumbnail: cheat-sheet.jpeg
+thumbnail: cheat-sheet.jpg
 category: Rezension
 rating: 4.5
 arc: true
