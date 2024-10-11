@@ -1,7 +1,7 @@
 ---
 title: "Rezension: The Fiancé Dilemma – Aller guten Dinge sind fünf"
 date: "2024-09-26"
-description: "Josie hat der Liebe viele Chancen gegeben. Vier, um genau zu sein, und jede der vier Verlobungen scheiterte. Als ihr berühmter Vater beschließt, seinen Ruhestand mit einem brisanten Artikel über die Familie anzukündigen, weiß Josie, dass ihre romantische Vergangenheit in aller Munde sein wird....."
+description: "Josie hat der Liebe viele Chancen gegeben. Vier, um genau zu sein, und jede der vier Verlobungen scheiterte. Als ihr berühmter Vater beschließt, seinen Ruhestand mit einem brisanten Artikel über die Familie anzukündigen, weiß Josie, dass ihre romantische Vergangenheit in aller Munde sein wird..."
 thumbnail: fiance-dilemma.jpg
 category: Rezension
 rating: 4

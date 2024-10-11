@@ -1,7 +1,7 @@
 ---
 title: "Rezension: Done and Dusted"
 date: "2024-09-26"
-description: "Emmy Ryder hat das erste Mal in ihrem Leben keine Ahnung, was sie tun soll. Nach einem Reitunfall traut sie sich nicht zurück auf ihr Pferd, und so muss sie ihre Karriere unterbrechen. Eher widerwillig zieht sie zurück zu ihrer Familie nach Meadowlark, Wyoming. Dort trifft sie auf Luke Brooks: Barbesitzer, ehemaliger Bad Boy und inzwischen der beliebteste Bachelor der Stadt...."
+description: "Emmy Ryder hat das erste Mal in ihrem Leben keine Ahnung, was sie tun soll. Nach einem Reitunfall traut sie sich nicht zurück auf ihr Pferd, und so muss sie ihre Karriere unterbrechen. Eher widerwillig zieht sie zurück zu ihrer Familie nach Meadowlark, Wyoming. Dort trifft sie auf Luke Brooks: Barbesitzer, ehemaliger Bad Boy und inzwischen der beliebteste Bachelor der Stadt..."
 thumbnail: done-and-dusted.jpg
 category: Rezension
 rating: 4.5
