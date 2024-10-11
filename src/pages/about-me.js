@@ -85,7 +85,7 @@ const AboutMe = () => (
         </p>
         <p>
           Eigentlich heiße ich Jasmin, bin 32 Jahre alt und komme gebürtig aus Köln.
-          Seit 2019 lebe ich aber mit meinem Freund und einem Kaninchen im schönen Leverkusen und genieße vollkommen das ländliche Leben, welches wir uns hier aufgebaut haben.<br />
+          Seit 2019 lebe ich aber mit meinem Freund im schönen Leverkusen und genieße vollkommen das ländliche Leben, welches wir uns hier aufgebaut haben.<br />
           Beruflich hat es mich in die IT-Branche getrieben. Als ich mein Abitur gemacht hab wollte ich "unbedingt etwas mit Medien" machen, ein normales Studium wollte ich aber nicht.
           Denn um ganz ehrlich zu sein, hatte ich nach 13 Jahren Schule genug von trockenem Unterricht. Ich suchte mir also eine Hochschule, die sich auf die praktische Lehrweise spezialisiert hat und hab nach 6 Semestern meinen <i>Bachelor of Arts</i> im Bereich <i>Webdesign &amp; Development</i> abgeschlossen.
           Nach ein paar Agentur Erfahrungen und über vier Jahren als interne Frontend-Entwicklerin in einem Baumarkt arbeite ich mittlerweile als Frontend-Entwicklerin für eine Bewertungsplattform wo ich unter anderem, dass Kunden Control Center mit meinen Kollegen betreue.<br />
