@@ -45,4 +45,5 @@ Santangel bleibt leider ebenfalls recht flach. Er hat einige interessante Ansät
 
 Ein weiterer Punkt, der meinen Lesefluss immer wieder gestört hat, sind die plötzlichen Sichtwechsel mitten im Kapitel und manchmal sogar mitten im Textfluss. Diese Wechsel passieren abrupt und ohne Vorwarnung, was mich oft aus der Geschichte gerissen hat. Der Lesefluss leidet darunter erheblich, da man immer wieder neu herausfinden muss, aus wessen Perspektive die Handlung nun gerade erzählt wird. Eine klarere Strukturierung der Perspektiven hätte hier geholfen, die Lesbarkeit zu verbessern und die Immersion zu erhöhen.
 
+### Fazit
 Insgesamt bietet "Der Vertraute" eine interessante Welt mit vielen fantasievollen Elementen, die jedoch in der ersten Hälfte des Buches nicht genügend Spannung aufbauen. Der langsame Handlungsverlauf und die eher blassen Charaktere lassen das Potenzial der Geschichte ungenutzt. Es gibt einige gute Ansätze, und Bardugos Schreibstil ist wie immer angenehm, doch am Ende bleibt ein Gefühl der Unvollständigkeit. Für mich als Fan von Leigh Bardugo war es trotzdem schön mal wieder etwas von ihr zu lesen.
